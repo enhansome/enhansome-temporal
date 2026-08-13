@@ -1,0 +1,1011 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "All lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-10T15:05:12Z",
+            "owner": "mfornos",
+            "repo": "awesome-microservices",
+            "stars": 14475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distributed systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-27T13:35:34Z",
+            "owner": "madd86",
+            "repo": "awesome-system-design",
+            "stars": 12418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Software architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-19T14:30:02Z",
+            "owner": "simonaronsson",
+            "repo": "awesome-software-architecture",
+            "stars": 2862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Queues",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-22T04:22:13Z",
+            "owner": "tonyhb",
+            "repo": "awesome-queues-jobs-and-tasks",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Languages we have SDKs in:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-05T06:11:04Z",
+                "owner": "vinta",
+                "repo": "awesome-python",
+                "stars": 313644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-11T21:38:50Z",
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 180919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-05-03T08:24:10Z",
+                "owner": "sindresorhus",
+                "repo": "awesome-nodejs",
+                "stars": 66507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-12T21:42:33Z",
+                "owner": "rust-unofficial",
+                "repo": "awesome-rust",
+                "stars": 58814
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-10T00:17:55Z",
+                "owner": "akullpp",
+                "repo": "awesome-java",
+                "stars": 48723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-31T19:54:43Z",
+                "owner": "sorrycc",
+                "repo": "awesome-javascript",
+                "stars": 35018
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-13T19:44:57Z",
+                "owner": "ziadoz",
+                "repo": "awesome-php",
+                "stars": 32648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-26T05:16:53Z",
+                "owner": "quozd",
+                "repo": "awesome-dotnet",
+                "stars": 21553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-16T20:36:03Z",
+                "owner": "markets",
+                "repo": "awesome-ruby",
+                "stars": 14136
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Databases we support:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Postgres",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-05-21T14:10:48Z",
+                "owner": "dhamaniasad",
+                "repo": "awesome-postgres",
+                "stars": 12044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:11:52Z",
+                "owner": "shlomi-noach",
+                "repo": "awesome-mysql",
+                "stars": 2603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cassandra",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2023-05-02T17:04:55Z",
+                "owner": "Anant",
+                "repo": "awesome-cassandra",
+                "stars": 319
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Related awesome lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Kubernetes operator to deploy and manage Temporal Clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-29T13:14:38Z",
+            "owner": "alexandrevilain",
+            "repo": "temporal-operator",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Pulumi scripts for creating and configuring a Google Cloud Project and using Cloud Build to deploy a Temporal worker and the Open Telemetry Connector in Cloud Run",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-19T17:17:55Z",
+            "owner": "temporal-sa",
+            "repo": "temporal-cloud-run",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-28T18:26:58Z",
+            "owner": "northpowered",
+            "repo": "temporal-rest-executor",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Reduces PostgreSQL Visibility index bloat by converting unused Search Attribute indexes on to partial indexes, with a REINDEX and autovacuum runbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-07-11T14:53:38Z",
+            "owner": "Krishnachaitanyakc",
+            "repo": "temporal-postgres-visibility",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Terraform provider to manage Temporal Server resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T13:25:07Z",
+            "owner": "platacard",
+            "repo": "terraform-provider-temporal",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Terraform Provider for Temporal Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:04:29Z",
+            "owner": "temporalio",
+            "repo": "terraform-provider-temporalcloud",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Terraform Providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iWF",
+          "description": "DSL workflow framework built on Temporal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-12T22:09:43Z",
+            "owner": "indeedeng",
+            "repo": "iwf",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Output",
+          "description": "AI Agents & Workflows with versioned prompts, evals, tracing, and credentials in one TypeScript framework built on Temporal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:09:52Z",
+            "owner": "growthxai",
+            "repo": "output",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awaithumans",
+          "description": "HITL primitive for AI agents. One function call ( / ) suspends the workflow until a real person reviews via Slack, email, or a built-in dashboard, then resumes with the typed response. The Temporal adapter uses signals to park the workflow while it waits — durable across worker restarts. Python + TypeScript SDKs, Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:39:31Z",
+            "owner": "awaithumans",
+            "repo": "awaithumans-human-in-the-loop-ai-agents",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "Multi-language or language-agnostic samples. (For samples in a specific lang, see the Samples subsection of the lang's section.)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Workflows in one lang signaling Workflows or starting Activities written in other langs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T23:49:03Z",
+            "owner": "temporalio",
+            "repo": "temporal-polyglot",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Switch between equivalent Workflows written in Go, Java, TS, and PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T06:27:17Z",
+            "owner": "temporal-community",
+            "repo": "temporal-pendulum",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T05:53:43Z",
+            "owner": "temporalio",
+            "repo": "samples-go",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benthos PoC",
+          "description": "Start a workflow from a Benthos message.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-27T10:33:18Z",
+            "owner": "disintegrator",
+            "repo": "benthos-temporal-poc",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "agenticenv/agent-sdk-go",
+          "description": "Temporal-first framework for building durable, production-grade AI agents in Go with native tools, MCP, human-in-the-loop approvals, and sub-agent delegation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T01:54:01Z",
+            "owner": "agenticenv",
+            "repo": "agent-sdk-go",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Collection of helpers: saga, receive Signal with timeout, drain channel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-31T14:25:17Z",
+            "owner": "Courtsite",
+            "repo": "temporal-go-helpers",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "YAML DSL workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-06-13T15:38:22Z",
+            "owner": "hatchet-dev",
+            "repo": "hatchet-workflows",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Opinionated and type-safe wrappers for the Go SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-17T22:09:16Z",
+            "owner": "vikstrous",
+            "repo": "tempts",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Run distributed Go-like tests using Temporal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-18T07:58:37Z",
+            "owner": "cito-oss",
+            "repo": "tempo",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "The Temporal Encryption Converter is a Go package that provides secure communication and context propagation for the Temporal workflow engine, employing AES256_GCM_PBKDF2_Curve25519 and XChaCha20_Poly1305_PBKDF2_Curve25519 encryption algorithms and ZLib compression.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-13T07:46:12Z",
+            "owner": "saga420",
+            "repo": "temporal-encryption-converter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Data Converter and Codec Server that uses Transit Secrets Engine from HashiCorp Vault.",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cognosis AI Platform",
+          "description": "Template for large language model applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T23:30:18Z",
+            "owner": "cognosisai",
+            "repo": "platform",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-09T17:17:47Z",
+            "owner": "lorensr",
+            "repo": "temporal-time-utils",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T01:14:21Z",
+            "owner": "temporalio",
+            "repo": "samples-java",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Spring Boot integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-02T20:29:06Z",
+            "owner": "temporalio",
+            "repo": "spring-boot-demo",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:26:37Z",
+            "owner": "temporalio",
+            "repo": "samples-python",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A proof-of-concept for orchestrating an AI video generation pipeline (AI Provider → S3 → token deduction → DB) using Temporal workflows and activities with FastAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T18:54:42Z",
+            "owner": "aybruhm",
+            "repo": "ai-video-generation-poc-with-temporal",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "SDK-based framework for more comfortable development with Temporal. FastAPI-style workers, autogenerating documentation, logging and tracing and other.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-01T17:56:47Z",
+            "owner": "northpowered",
+            "repo": "temporal-boost",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Batch Orchestra",
+          "description": "An easy-to-adopt library for scalable, reliable batch processing. It features pagination, parallelism, and extended retries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-24T02:54:41Z",
+            "owner": "drewhoskins",
+            "repo": "batch-orchestra",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Temporalio.Graphs",
+          "description": "A NuGet package that can be used to generate a complete WF graph (DAG visualization) by running the WF in the mocked-run mode either during the build or at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-26T10:41:10Z",
+            "owner": "oleg-shilo",
+            "repo": "Temporalio.Graphs",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfinityFlow.Aspire.Temporal",
+          "description": "A .NET Aspire package to work with and start a dev server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-15T13:50:07Z",
+            "owner": "InfinityFlowApp",
+            "repo": "aspire-temporal",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SDK GitHub repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-06T08:12:50Z",
+            "owner": "andrzej-mag",
+            "repo": "temporal_sdk",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samples GitHub repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-18T11:49:44Z",
+            "owner": "andrzej-mag",
+            "repo": "temporal_sdk_samples",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Elixir"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SDK GitHub repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-06T08:12:50Z",
+            "owner": "andrzej-mag",
+            "repo": "temporal_sdk",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samples GitHub repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-18T11:49:44Z",
+            "owner": "andrzej-mag",
+            "repo": "temporal_sdk_samples",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Haskell SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-13T03:13:34Z",
+            "owner": "MercuryTechnologies",
+            "repo": "hs-temporal-sdk",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell SDK Cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-02-23T18:07:03Z",
+            "owner": "MercuryTechnologies",
+            "repo": "hs-temporal-cookbook",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Julep: Modern, Scalable, Resilient AI workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T05:17:30Z",
+            "owner": "julep-ai",
+            "repo": "julep",
+            "stars": 6597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workflow Builder",
+          "description": "Embeddable, data-driven visual workflow editor SDK for React (Apache 2.0). The execution engine is swappable by design and proven with Temporal, giving you a working end-to-end reference for durable AI orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:50:40Z",
+            "owner": "synergycodes",
+            "repo": "workflowbuilder",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-02T17:22:06Z",
+            "owner": "open-responses",
+            "repo": "open-responses",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cron Atlas",
+          "description": "Hit an HTTP endpoint on a schedule",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-03T18:15:55Z",
+            "owner": "pmbanugo",
+            "repo": "cron-atlas",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Built with Temporal"
+    },
+    {
+      "description": "We welcome contributions! See .\n🙏 Thank you to:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "All those who have contributed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T16:01:26Z",
+            "owner": "temporalio",
+            "repo": "awesome-temporal",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "for",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-03T17:53:08Z",
+            "owner": "firdaus",
+            "repo": "awesome-cadence-temporal-workflow",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Credits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:34.570Z",
+    "original_repository": "temporalio/awesome-temporal",
+    "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",
+    "enhanced_repository": "enhansome/enhansome-temporal",
+    "enhanced_repository_description": null,
+    "title": "Awesome Temporal with stars"
+  }
+}

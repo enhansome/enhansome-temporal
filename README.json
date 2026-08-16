@@ -14,7 +14,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495938
+            "stars": 496321
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14478
+            "stars": 14479
           }
         },
         {
@@ -86,10 +86,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-05T06:11:04Z",
+                "last_commit": "2026-08-16T09:06:33Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 314057
+                "stars": 314227
               }
             },
             {
@@ -100,10 +100,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-15T07:35:10Z",
+                "last_commit": "2026-08-16T09:49:10Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 181102
+                "stars": 181190
               }
             },
             {
@@ -117,7 +117,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66526
+                "stars": 66539
               }
             },
             {
@@ -128,10 +128,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-14T17:56:17Z",
+                "last_commit": "2026-08-15T23:24:05Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58841
+                "stars": 58849
               }
             },
             {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-10T00:17:55Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48742
+                "stars": 48751
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-07-31T19:54:43Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35020
+                "stars": 35018
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32650
+                "stars": 32653
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21554
+                "stars": 21557
               }
             },
             {
@@ -201,7 +201,7 @@
                 "last_commit": "2026-08-13T09:40:38Z",
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14137
+                "stars": 14139
               }
             }
           ]
@@ -222,7 +222,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12047
+                "stars": 12046
               }
             },
             {
@@ -368,7 +368,7 @@
             "last_commit": "2026-07-12T22:09:43Z",
             "owner": "indeedeng",
             "repo": "iwf",
-            "stars": 655
+            "stars": 656
           }
         },
         {
@@ -491,10 +491,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T01:54:01Z",
+            "last_commit": "2026-08-16T07:50:08Z",
             "owner": "agenticenv",
             "repo": "agent-sdk-go",
-            "stars": 45
+            "stars": 47
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-08-06T05:17:30Z",
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6599
+            "stars": 6597
           }
         },
         {
@@ -931,7 +931,7 @@
             "last_commit": "2026-08-14T14:53:31Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 328
+            "stars": 330
           }
         },
         {
@@ -945,7 +945,7 @@
             "last_commit": "2025-04-02T17:22:06Z",
             "owner": "open-responses",
             "repo": "open-responses",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:45:39.424Z",
+    "last_updated": "2026-08-16T10:46:06.926Z",
     "original_repository": "temporalio/awesome-temporal",
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",
     "enhanced_repository": "enhansome/enhansome-temporal",

@@ -14,7 +14,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496321
+            "stars": 496753
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14479
+            "stars": 14481
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12419
+            "stars": 12420
           }
         },
         {
@@ -86,10 +86,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T09:06:33Z",
+                "last_commit": "2026-08-16T13:31:43Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 314227
+                "stars": 314389
               }
             },
             {
@@ -100,10 +100,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T09:49:10Z",
+                "last_commit": "2026-08-16T12:09:33Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 181190
+                "stars": 181277
               }
             },
             {
@@ -128,10 +128,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-15T23:24:05Z",
+                "last_commit": "2026-08-17T08:22:36Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58849
+                "stars": 58863
               }
             },
             {
@@ -142,10 +142,10 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-08-10T00:17:55Z",
+                "last_commit": "2026-08-17T00:12:13Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48751
+                "stars": 48755
               }
             },
             {
@@ -156,10 +156,10 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-07-31T19:54:43Z",
+                "last_commit": "2026-08-17T07:30:04Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35018
+                "stars": 35019
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32653
+                "stars": 32652
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21557
+                "stars": 21560
               }
             },
             {
@@ -201,7 +201,7 @@
                 "last_commit": "2026-08-13T09:40:38Z",
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14139
+                "stars": 14140
               }
             }
           ]
@@ -222,7 +222,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12046
+                "stars": 12048
               }
             },
             {
@@ -379,7 +379,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T21:07:46Z",
+            "last_commit": "2026-08-17T05:59:03Z",
             "owner": "growthxai",
             "repo": "output",
             "stars": 431
@@ -491,7 +491,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T07:50:08Z",
+            "last_commit": "2026-08-17T05:07:54Z",
             "owner": "agenticenv",
             "repo": "agent-sdk-go",
             "stars": 47
@@ -668,7 +668,7 @@
             "last_commit": "2026-08-14T20:24:30Z",
             "owner": "temporalio",
             "repo": "samples-python",
-            "stars": 364
+            "stars": 366
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-08-06T05:17:30Z",
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6597
+            "stars": 6596
           }
         },
         {
@@ -928,10 +928,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:53:31Z",
+            "last_commit": "2026-08-17T07:58:37Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 330
+            "stars": 332
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:46:06.926Z",
+    "last_updated": "2026-08-17T10:55:02.409Z",
     "original_repository": "temporalio/awesome-temporal",
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",
     "enhanced_repository": "enhansome/enhansome-temporal",

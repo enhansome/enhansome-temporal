@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497617
+            "stars": 497670
           }
         },
         {
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-16T13:31:43Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 314823
+                "stars": 314858
               }
             },
             {
@@ -110,7 +110,7 @@
                 "last_commit": "2026-08-19T09:52:23Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 181499
+                "stars": 181511
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-17T00:12:13Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48781
+                "stars": 48783
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32656
+                "stars": 32657
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21561
+                "stars": 21562
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12049
+                "stars": 12050
               }
             },
             {
@@ -519,7 +519,7 @@
                 "last_commit": "2026-08-19T06:37:22Z",
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
-                "stars": 48
+                "stars": 49
               }
             },
             {
@@ -949,7 +949,7 @@
             "archived": false,
             "id": 996682315,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:08:10Z",
+            "last_commit": "2026-08-19T12:26:29Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
             "stars": 335
@@ -1026,8 +1026,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:53:04.898Z",
+    "last_updated": "2026-08-19T12:53:45.203Z",
     "original_repository": "temporalio/awesome-temporal",
+    "original_repository_id": 593843897,
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",
     "enhanced_repository": "enhansome/enhansome-temporal",
     "enhanced_repository_description": null,

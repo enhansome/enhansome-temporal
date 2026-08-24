@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499451
+            "stars": 499518
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12431
+            "stars": 12432
           }
         },
         {
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-24T06:42:58Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315767
+                "stars": 315800
               }
             },
             {
@@ -110,7 +110,7 @@
                 "last_commit": "2026-08-21T06:27:18Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182093
+                "stars": 182112
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66611
+                "stars": 66610
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58955
+                "stars": 58957
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671
+                "stars": 32672
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12057
+                "stars": 12058
               }
             },
             {
@@ -252,7 +252,7 @@
                 "last_commit": "2026-08-17T12:26:05Z",
                 "owner": "shlomi-noach",
                 "repo": "awesome-mysql",
-                "stars": 2608
+                "stars": 2609
               }
             },
             {
@@ -280,7 +280,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "temporal-operator",
           "description": "Kubernetes operator to deploy and manage Temporal Clusters.",
           "children": [],
           "repo_info": {
@@ -295,7 +295,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "temporal-cloud-run",
           "description": "Pulumi scripts for creating and configuring a Google Cloud Project and using Cloud Build to deploy a Temporal worker and the Open Telemetry Connector in Cloud Run",
           "children": [],
           "repo_info": {
@@ -310,7 +310,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "temporal-rest-executor",
           "description": "Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.",
           "children": [],
           "repo_info": {
@@ -325,7 +325,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "temporal-postgres-visibility",
           "description": "Reduces PostgreSQL Visibility index bloat by converting unused Search Attribute indexes on to partial indexes, with a REINDEX and autovacuum runbook.",
           "children": [],
           "repo_info": {
@@ -342,7 +342,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "terraform-provider-temporal",
               "description": "Terraform provider to manage Temporal Server resources.",
               "children": [],
               "repo_info": {
@@ -357,7 +357,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "terraform-provider-temporalcloud",
               "description": "Terraform Provider for Temporal Cloud",
               "children": [],
               "repo_info": {
@@ -434,7 +434,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "temporal-polyglot",
           "description": "Workflows in one lang signaling Workflows or starting Activities written in other langs.",
           "children": [],
           "repo_info": {
@@ -449,7 +449,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "temporal-pendulum",
           "description": "Switch between equivalent Workflows written in Go, Java, TS, and PHP.",
           "children": [],
           "repo_info": {
@@ -469,10 +469,25 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Go SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215838955,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:13:54Z",
+            "owner": "temporalio",
+            "repo": "sdk-go",
+            "stars": 955
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "samples-go",
               "description": null,
               "children": [],
               "repo_info": {
@@ -524,7 +539,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "temporal-go-helpers",
               "description": "Collection of helpers: saga, receive Signal with timeout, drain channel.",
               "children": [],
               "repo_info": {
@@ -539,7 +554,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "hatchet-workflows",
               "description": "YAML DSL workflows.",
               "children": [],
               "repo_info": {
@@ -554,7 +569,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "tempts",
               "description": "Opinionated and type-safe wrappers for the Go SDK.",
               "children": [],
               "repo_info": {
@@ -569,7 +584,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "tempo",
               "description": "Run distributed Go-like tests using Temporal.",
               "children": [],
               "repo_info": {
@@ -584,7 +599,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "temporal-encryption-converter",
               "description": "The Temporal Encryption Converter is a Go package that provides secure communication and context propagation for the Temporal workflow engine, employing AES256_GCM_PBKDF2_Curve25519 and XChaCha20_Poly1305_PBKDF2_Curve25519 encryption algorithms and ZLib compression.",
               "children": [],
               "repo_info": {
@@ -609,6 +624,43 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "TypeScript SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317256151,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:00:34Z",
+            "owner": "temporalio",
+            "repo": "sdk-typescript",
+            "stars": 898
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "samples-typescript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371128066,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T16:49:26Z",
+                "owner": "temporalio",
+                "repo": "samples-typescript",
+                "stars": 464
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -627,7 +679,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "temporal-time-utils",
               "description": "and .",
               "children": [],
               "repo_info": {
@@ -652,10 +704,25 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Java SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215840316,
+            "language": "Java",
+            "last_commit": "2026-08-24T01:25:18Z",
+            "owner": "temporalio",
+            "repo": "sdk-java",
+            "stars": 431
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "samples-java",
               "description": null,
               "children": [],
               "repo_info": {
@@ -670,7 +737,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "spring-boot-demo",
               "description": "Spring Boot integration.",
               "children": [],
               "repo_info": {
@@ -695,10 +762,25 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Python SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451613653,
+            "language": "Python",
+            "last_commit": "2026-08-22T00:26:24Z",
+            "owner": "temporalio",
+            "repo": "sdk-python",
+            "stars": 1168
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "samples-python",
               "description": null,
               "children": [],
               "repo_info": {
@@ -713,7 +795,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "ai-video-generation-poc-with-temporal",
               "description": "A proof-of-concept for orchestrating an AI video generation pipeline (AI Provider → S3 → token deduction → DB) using Temporal workflows and activities with FastAPI.",
               "children": [],
               "repo_info": {
@@ -735,7 +817,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "temporal-boost",
               "description": "SDK-based framework for more comfortable development with Temporal. FastAPI-style workers, autogenerating documentation, logging and tracing and other.",
               "children": [],
               "repo_info": {
@@ -775,6 +857,43 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": ".NET SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 577960478,
+            "language": "C#",
+            "last_commit": "2026-08-21T22:54:09Z",
+            "owner": "temporalio",
+            "repo": "sdk-dotnet",
+            "stars": 567
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "samples-dotnet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598820580,
+                "language": "C#",
+                "last_commit": "2026-08-21T16:55:08Z",
+                "owner": "temporalio",
+                "repo": "samples-dotnet",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -813,6 +932,156 @@
         }
       ],
       "title": ".NET"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PHP SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294536964,
+            "language": "PHP",
+            "last_commit": "2026-08-22T07:46:15Z",
+            "owner": "temporalio",
+            "repo": "sdk-php",
+            "stars": 419
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "samples-php",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332012836,
+                "language": "PHP",
+                "last_commit": "2026-08-19T17:05:29Z",
+                "owner": "temporalio",
+                "repo": "samples-php",
+                "stars": 124
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RoadRunner",
+              "description": "PHP application server and process manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115436884,
+                "language": "Go",
+                "last_commit": "2026-08-22T14:42:46Z",
+                "owner": "roadrunner-server",
+                "repo": "roadrunner",
+                "stars": 8501
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ruby SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 479006152,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:01:45Z",
+            "owner": "temporalio",
+            "repo": "sdk-ruby",
+            "stars": 202
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "samples-ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 869117857,
+                "language": "Ruby",
+                "last_commit": "2026-08-20T16:42:52Z",
+                "owner": "temporalio",
+                "repo": "samples-ruby",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples"
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rust SDK",
+          "description": "Currently in Public Preview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329126613,
+            "language": "Rust",
+            "last_commit": "2026-08-23T02:55:57Z",
+            "owner": "temporalio",
+            "repo": "sdk-rust",
+            "stars": 506
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clojure SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 532598881,
+            "language": "Clojure",
+            "last_commit": "2026-08-11T13:25:55Z",
+            "owner": "manetu",
+            "repo": "temporal-clojure-sdk",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Clojure"
     },
     {
       "description": null,
@@ -949,7 +1218,7 @@
             "archived": false,
             "id": 996682315,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:49:30Z",
+            "last_commit": "2026-08-24T13:31:28Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
             "stars": 343
@@ -1008,7 +1277,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "awesome-cadence-temporal-workflow",
           "description": "for",
           "children": [],
           "repo_info": {
@@ -1026,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:00:44.851Z",
+    "last_updated": "2026-08-24T14:23:22.350Z",
     "original_repository": "temporalio/awesome-temporal",
     "original_repository_id": 593843897,
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",

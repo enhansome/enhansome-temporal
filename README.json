@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499097
+            "stars": 499451
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14492
+            "stars": 14491
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12428
+            "stars": 12431
           }
         },
         {
@@ -92,10 +92,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:02:10Z",
+                "last_commit": "2026-08-24T06:42:58Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315594
+                "stars": 315767
               }
             },
             {
@@ -110,7 +110,7 @@
                 "last_commit": "2026-08-21T06:27:18Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182010
+                "stars": 182093
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66598
+                "stars": 66611
               }
             },
             {
@@ -137,10 +137,10 @@
                 "archived": false,
                 "id": 21938243,
                 "language": "Rust",
-                "last_commit": "2026-08-22T14:37:29Z",
+                "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58950
+                "stars": 58955
               }
             },
             {
@@ -152,10 +152,10 @@
                 "archived": false,
                 "id": 21648001,
                 "language": null,
-                "last_commit": "2026-08-19T18:23:37Z",
+                "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48823
+                "stars": 48835
               }
             },
             {
@@ -170,7 +170,7 @@
                 "last_commit": "2026-08-19T17:00:42Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35018
+                "stars": 35021
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32668
+                "stars": 32671
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21573
+                "stars": 21574
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12054
+                "stars": 12057
               }
             },
             {
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 1180979069,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T21:49:46Z",
+            "last_commit": "2026-08-23T22:45:24Z",
             "owner": "growthxai",
             "repo": "output",
             "stars": 434
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 1180653673,
                 "language": "Go",
-                "last_commit": "2026-08-23T08:53:09Z",
+                "last_commit": "2026-08-23T20:50:20Z",
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
                 "stars": 51
@@ -949,10 +949,10 @@
             "archived": false,
             "id": 996682315,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:23:47Z",
+            "last_commit": "2026-08-24T07:49:30Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 340
+            "stars": 343
           }
         },
         {
@@ -1026,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:47:46.447Z",
+    "last_updated": "2026-08-24T11:00:44.851Z",
     "original_repository": "temporalio/awesome-temporal",
     "original_repository_id": 593843897,
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",

@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499759
+            "stars": 500058
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14494
+            "stars": 14493
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12431
+            "stars": 12432
           }
         },
         {
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315955
+                "stars": 316143
               }
             },
             {
@@ -107,10 +107,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-25T00:32:48Z",
+                "last_commit": "2026-08-26T08:06:37Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182184
+                "stars": 182289
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66619
+                "stars": 66622
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58967
+                "stars": 58980
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48841
+                "stars": 48847
               }
             },
             {
@@ -170,7 +170,7 @@
                 "last_commit": "2026-08-19T17:00:42Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35022
+                "stars": 35023
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32670
+                "stars": 32669
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21577
+                "stars": 21578
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2026-08-13T09:40:38Z",
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14144
+                "stars": 14145
               }
             }
           ]
@@ -237,7 +237,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12059
+                "stars": 12061
               }
             },
             {
@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 674327831,
                 "language": "Go",
-                "last_commit": "2026-08-24T17:41:05Z",
+                "last_commit": "2026-08-25T20:23:14Z",
                 "owner": "temporalio",
                 "repo": "terraform-provider-temporalcloud",
                 "stars": 25
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 1180979069,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:45:24Z",
+            "last_commit": "2026-08-25T18:07:01Z",
             "owner": "growthxai",
             "repo": "output",
             "stars": 434
@@ -477,10 +477,10 @@
             "archived": false,
             "id": 215838955,
             "language": "Go",
-            "last_commit": "2026-08-25T03:56:40Z",
+            "last_commit": "2026-08-26T05:24:15Z",
             "owner": "temporalio",
             "repo": "sdk-go",
-            "stars": 955
+            "stars": 958
           }
         },
         {
@@ -494,7 +494,7 @@
                 "archived": false,
                 "id": 215839851,
                 "language": "Go",
-                "last_commit": "2026-08-21T18:15:28Z",
+                "last_commit": "2026-08-25T20:43:57Z",
                 "owner": "temporalio",
                 "repo": "samples-go",
                 "stars": 748
@@ -531,7 +531,7 @@
                 "archived": false,
                 "id": 1180653673,
                 "language": "Go",
-                "last_commit": "2026-08-23T20:50:20Z",
+                "last_commit": "2026-08-25T23:44:57Z",
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
                 "stars": 51
@@ -632,7 +632,7 @@
             "archived": false,
             "id": 317256151,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:24:00Z",
+            "last_commit": "2026-08-26T03:31:59Z",
             "owner": "temporalio",
             "repo": "sdk-typescript",
             "stars": 899
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 371128066,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:09:49Z",
+                "last_commit": "2026-08-26T03:44:35Z",
                 "owner": "temporalio",
                 "repo": "samples-typescript",
                 "stars": 464
@@ -712,7 +712,7 @@
             "archived": false,
             "id": 215840316,
             "language": "Java",
-            "last_commit": "2026-08-24T23:29:11Z",
+            "last_commit": "2026-08-25T22:01:40Z",
             "owner": "temporalio",
             "repo": "sdk-java",
             "stars": 431
@@ -729,7 +729,7 @@
                 "archived": false,
                 "id": 215840816,
                 "language": "Java",
-                "last_commit": "2026-08-22T00:22:11Z",
+                "last_commit": "2026-08-25T20:55:32Z",
                 "owner": "temporalio",
                 "repo": "samples-java",
                 "stars": 258
@@ -770,10 +770,10 @@
             "archived": false,
             "id": 451613653,
             "language": "Python",
-            "last_commit": "2026-08-25T02:59:50Z",
+            "last_commit": "2026-08-25T22:10:06Z",
             "owner": "temporalio",
             "repo": "sdk-python",
-            "stars": 1168
+            "stars": 1171
           }
         },
         {
@@ -787,7 +787,7 @@
                 "archived": false,
                 "id": 454557884,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:21:36Z",
+                "last_commit": "2026-08-25T20:49:09Z",
                 "owner": "temporalio",
                 "repo": "samples-python",
                 "stars": 366
@@ -865,7 +865,7 @@
             "archived": false,
             "id": 577960478,
             "language": "C#",
-            "last_commit": "2026-08-25T05:54:16Z",
+            "last_commit": "2026-08-26T00:59:42Z",
             "owner": "temporalio",
             "repo": "sdk-dotnet",
             "stars": 567
@@ -882,7 +882,7 @@
                 "archived": false,
                 "id": 598820580,
                 "language": "C#",
-                "last_commit": "2026-08-25T08:19:45Z",
+                "last_commit": "2026-08-25T20:55:50Z",
                 "owner": "temporalio",
                 "repo": "samples-dotnet",
                 "stars": 113
@@ -987,7 +987,7 @@
                 "last_commit": "2026-08-24T22:04:05Z",
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8501
+                "stars": 8500
               }
             }
           ],
@@ -1010,7 +1010,7 @@
             "archived": false,
             "id": 479006152,
             "language": "Ruby",
-            "last_commit": "2026-08-25T04:45:09Z",
+            "last_commit": "2026-08-25T18:05:30Z",
             "owner": "temporalio",
             "repo": "sdk-ruby",
             "stars": 203
@@ -1053,7 +1053,7 @@
             "archived": false,
             "id": 329126613,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:11:31Z",
+            "last_commit": "2026-08-25T21:59:43Z",
             "owner": "temporalio",
             "repo": "sdk-rust",
             "stars": 506
@@ -1167,7 +1167,7 @@
             "archived": false,
             "id": 639920912,
             "language": "Haskell",
-            "last_commit": "2026-08-24T18:48:41Z",
+            "last_commit": "2026-08-25T19:41:42Z",
             "owner": "MercuryTechnologies",
             "repo": "hs-temporal-sdk",
             "stars": 69
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-08-06T05:17:30Z",
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6594
+            "stars": 6591
           }
         },
         {
@@ -1218,10 +1218,10 @@
             "archived": false,
             "id": 996682315,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:31:28Z",
+            "last_commit": "2026-08-26T09:37:13Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 343
+            "stars": 346
           }
         },
         {
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:57:41.060Z",
+    "last_updated": "2026-08-26T10:59:30.543Z",
     "original_repository": "temporalio/awesome-temporal",
     "original_repository_id": 593843897,
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",

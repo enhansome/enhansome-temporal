@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500058
+            "stars": 500368
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14493
+            "stars": 14494
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12432
+            "stars": 12434
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-19T14:30:02Z",
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2873
+            "stars": 2874
           }
         },
         {
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316143
+                "stars": 316384
               }
             },
             {
@@ -107,10 +107,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-26T08:06:37Z",
+                "last_commit": "2026-08-27T09:04:15Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182289
+                "stars": 182404
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66622
+                "stars": 66625
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58980
+                "stars": 58992
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48847
+                "stars": 48857
               }
             },
             {
@@ -170,7 +170,7 @@
                 "last_commit": "2026-08-19T17:00:42Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35023
+                "stars": 35022
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2026-08-13T09:40:38Z",
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14145
+                "stars": 14144
               }
             }
           ]
@@ -237,7 +237,7 @@
                 "last_commit": "2026-05-21T14:10:48Z",
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12061
+                "stars": 12062
               }
             },
             {
@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 674327831,
                 "language": "Go",
-                "last_commit": "2026-08-25T20:23:14Z",
+                "last_commit": "2026-08-27T03:04:11Z",
                 "owner": "temporalio",
                 "repo": "terraform-provider-temporalcloud",
                 "stars": 25
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 1180979069,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T18:07:01Z",
+            "last_commit": "2026-08-26T22:13:17Z",
             "owner": "growthxai",
             "repo": "output",
             "stars": 434
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 215838955,
             "language": "Go",
-            "last_commit": "2026-08-26T05:24:15Z",
+            "last_commit": "2026-08-26T23:31:51Z",
             "owner": "temporalio",
             "repo": "sdk-go",
             "stars": 958
@@ -632,7 +632,7 @@
             "archived": false,
             "id": 317256151,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T03:31:59Z",
+            "last_commit": "2026-08-26T20:50:55Z",
             "owner": "temporalio",
             "repo": "sdk-typescript",
             "stars": 899
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 371128066,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T03:44:35Z",
+                "last_commit": "2026-08-26T22:09:42Z",
                 "owner": "temporalio",
                 "repo": "samples-typescript",
                 "stars": 464
@@ -712,10 +712,10 @@
             "archived": false,
             "id": 215840316,
             "language": "Java",
-            "last_commit": "2026-08-25T22:01:40Z",
+            "last_commit": "2026-08-27T03:40:04Z",
             "owner": "temporalio",
             "repo": "sdk-java",
-            "stars": 431
+            "stars": 430
           }
         },
         {
@@ -770,10 +770,10 @@
             "archived": false,
             "id": 451613653,
             "language": "Python",
-            "last_commit": "2026-08-25T22:10:06Z",
+            "last_commit": "2026-08-26T23:24:56Z",
             "owner": "temporalio",
             "repo": "sdk-python",
-            "stars": 1171
+            "stars": 1169
           }
         },
         {
@@ -787,7 +787,7 @@
                 "archived": false,
                 "id": 454557884,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:49:09Z",
+                "last_commit": "2026-08-26T19:28:07Z",
                 "owner": "temporalio",
                 "repo": "samples-python",
                 "stars": 366
@@ -865,7 +865,7 @@
             "archived": false,
             "id": 577960478,
             "language": "C#",
-            "last_commit": "2026-08-26T00:59:42Z",
+            "last_commit": "2026-08-26T23:56:07Z",
             "owner": "temporalio",
             "repo": "sdk-dotnet",
             "stars": 567
@@ -987,7 +987,7 @@
                 "last_commit": "2026-08-24T22:04:05Z",
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8500
+                "stars": 8499
               }
             }
           ],
@@ -1010,7 +1010,7 @@
             "archived": false,
             "id": 479006152,
             "language": "Ruby",
-            "last_commit": "2026-08-25T18:05:30Z",
+            "last_commit": "2026-08-27T01:43:19Z",
             "owner": "temporalio",
             "repo": "sdk-ruby",
             "stars": 203
@@ -1053,10 +1053,10 @@
             "archived": false,
             "id": 329126613,
             "language": "Rust",
-            "last_commit": "2026-08-25T21:59:43Z",
+            "last_commit": "2026-08-27T01:35:18Z",
             "owner": "temporalio",
             "repo": "sdk-rust",
-            "stars": 506
+            "stars": 507
           }
         }
       ],
@@ -1167,7 +1167,7 @@
             "archived": false,
             "id": 639920912,
             "language": "Haskell",
-            "last_commit": "2026-08-25T19:41:42Z",
+            "last_commit": "2026-08-27T00:00:46Z",
             "owner": "MercuryTechnologies",
             "repo": "hs-temporal-sdk",
             "stars": 69
@@ -1218,10 +1218,10 @@
             "archived": false,
             "id": 996682315,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:37:13Z",
+            "last_commit": "2026-08-27T11:32:05Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -1295,9 +1295,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:59:30.543Z",
-    "original_repository": "temporalio/awesome-temporal",
-    "original_repository_id": 593843897,
+    "last_updated": "2026-08-27T12:07:01.136Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 593843897,
+      "language": null,
+      "last_commit": "2026-08-12T16:01:26Z",
+      "owner": "temporalio",
+      "repo": "awesome-temporal",
+      "stars": 456
+    },
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",
     "enhanced_repository": "enhansome/enhansome-temporal",
     "enhanced_repository_description": null,

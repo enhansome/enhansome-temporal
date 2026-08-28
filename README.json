@@ -15,8 +15,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500495
-          }
+            "stars": 500829
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14497
-          }
+            "stars": 14498
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12434
-          }
+            "stars": 12436
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
             "stars": 2874
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "tonyhb",
             "repo": "awesome-queues-jobs-and-tasks",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "group",
@@ -95,8 +100,9 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316477
-              }
+                "stars": 316751
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -107,11 +113,12 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:04:15Z",
+                "last_commit": "2026-08-28T16:52:34Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182438
-              }
+                "stars": 182545
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -125,8 +132,9 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66634
-              }
+                "stars": 66642
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -137,11 +145,12 @@
                 "archived": false,
                 "id": 21938243,
                 "language": "Rust",
-                "last_commit": "2026-08-27T18:15:02Z",
+                "last_commit": "2026-08-28T11:12:13Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59003
-              }
+                "stars": 59028
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -155,8 +164,9 @@
                 "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48869
-              }
+                "stars": 48876
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -170,8 +180,9 @@
                 "last_commit": "2026-08-19T17:00:42Z",
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35021
-              }
+                "stars": 35022
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -185,8 +196,9 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32670
-              }
+                "stars": 32671
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -200,8 +212,9 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21578
-              }
+                "stars": 21579
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -215,8 +228,9 @@
                 "last_commit": "2026-08-13T09:40:38Z",
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14146
-              }
+                "stars": 14148
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ]
         },
@@ -238,7 +252,8 @@
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
                 "stars": 12064
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -252,8 +267,9 @@
                 "last_commit": "2026-08-17T12:26:05Z",
                 "owner": "shlomi-noach",
                 "repo": "awesome-mysql",
-                "stars": 2611
-              }
+                "stars": 2610
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -268,7 +284,8 @@
                 "owner": "Anant",
                 "repo": "awesome-cassandra",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ]
         }
@@ -291,7 +308,8 @@
             "owner": "alexandrevilain",
             "repo": "temporal-operator",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -306,7 +324,8 @@
             "owner": "temporal-sa",
             "repo": "temporal-cloud-run",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -321,7 +340,8 @@
             "owner": "northpowered",
             "repo": "temporal-rest-executor",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -336,7 +356,8 @@
             "owner": "Krishnachaitanyakc",
             "repo": "temporal-postgres-visibility",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -349,11 +370,12 @@
                 "archived": false,
                 "id": 707206113,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:52:45Z",
+                "last_commit": "2026-08-28T09:59:18Z",
                 "owner": "platacard",
                 "repo": "terraform-provider-temporal",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "temporalio",
                 "repo": "terraform-provider-temporalcloud",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -390,11 +413,12 @@
             "archived": false,
             "id": 518169634,
             "language": "Go",
-            "last_commit": "2026-07-12T22:09:43Z",
+            "last_commit": "2026-08-28T20:35:58Z",
             "owner": "indeedeng",
             "repo": "iwf",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -405,11 +429,12 @@
             "archived": false,
             "id": 1180979069,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T17:29:14Z",
+            "last_commit": "2026-08-28T20:45:54Z",
             "owner": "growthxai",
             "repo": "output",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -424,7 +449,8 @@
             "owner": "awaithumans",
             "repo": "awaithumans-human-in-the-loop-ai-agents",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Frameworks"
@@ -445,7 +471,8 @@
             "owner": "temporalio",
             "repo": "temporal-polyglot",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -460,7 +487,8 @@
             "owner": "temporal-community",
             "repo": "temporal-pendulum",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Samples"
@@ -477,11 +505,12 @@
             "archived": false,
             "id": 215838955,
             "language": "Go",
-            "last_commit": "2026-08-27T18:26:43Z",
+            "last_commit": "2026-08-28T20:40:04Z",
             "owner": "temporalio",
             "repo": "sdk-go",
-            "stars": 959
-          }
+            "stars": 958
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -498,7 +527,8 @@
                 "owner": "temporalio",
                 "repo": "samples-go",
                 "stars": 749
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -513,7 +543,8 @@
                 "owner": "disintegrator",
                 "repo": "benthos-temporal-poc",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -535,7 +566,8 @@
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -550,7 +582,8 @@
                 "owner": "Courtsite",
                 "repo": "temporal-go-helpers",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -565,7 +598,8 @@
                 "owner": "hatchet-dev",
                 "repo": "hatchet-workflows",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -580,7 +614,8 @@
                 "owner": "vikstrous",
                 "repo": "tempts",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -595,7 +630,8 @@
                 "owner": "cito-oss",
                 "repo": "tempo",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -610,7 +646,8 @@
                 "owner": "saga420",
                 "repo": "temporal-encryption-converter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -632,11 +669,12 @@
             "archived": false,
             "id": 317256151,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:56:07Z",
+            "last_commit": "2026-08-28T20:59:10Z",
             "owner": "temporalio",
             "repo": "sdk-typescript",
-            "stars": 899
-          }
+            "stars": 900
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -649,11 +687,12 @@
                 "archived": false,
                 "id": 371128066,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:39:09Z",
+                "last_commit": "2026-08-28T12:01:29Z",
                 "owner": "temporalio",
                 "repo": "samples-typescript",
                 "stars": 464
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -675,7 +714,8 @@
                 "owner": "cognosisai",
                 "repo": "platform",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -690,7 +730,8 @@
                 "owner": "lorensr",
                 "repo": "temporal-time-utils",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -712,11 +753,12 @@
             "archived": false,
             "id": 215840316,
             "language": "Java",
-            "last_commit": "2026-08-27T20:28:15Z",
+            "last_commit": "2026-08-28T20:39:04Z",
             "owner": "temporalio",
             "repo": "sdk-java",
-            "stars": 430
-          }
+            "stars": 431
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -729,11 +771,12 @@
                 "archived": false,
                 "id": 215840816,
                 "language": "Java",
-                "last_commit": "2026-08-25T20:55:32Z",
+                "last_commit": "2026-08-27T23:48:04Z",
                 "owner": "temporalio",
                 "repo": "samples-java",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -748,7 +791,8 @@
                 "owner": "temporalio",
                 "repo": "spring-boot-demo",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -770,11 +814,12 @@
             "archived": false,
             "id": 451613653,
             "language": "Python",
-            "last_commit": "2026-08-27T17:22:11Z",
+            "last_commit": "2026-08-28T19:33:36Z",
             "owner": "temporalio",
             "repo": "sdk-python",
-            "stars": 1169
-          }
+            "stars": 1170
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -791,7 +836,8 @@
                 "owner": "temporalio",
                 "repo": "samples-python",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -806,7 +852,8 @@
                 "owner": "aybruhm",
                 "repo": "ai-video-generation-poc-with-temporal",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -828,7 +875,8 @@
                 "owner": "northpowered",
                 "repo": "temporal-boost",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -843,7 +891,8 @@
                 "owner": "drewhoskins",
                 "repo": "batch-orchestra",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -865,11 +914,12 @@
             "archived": false,
             "id": 577960478,
             "language": "C#",
-            "last_commit": "2026-08-26T23:56:07Z",
+            "last_commit": "2026-08-27T22:24:29Z",
             "owner": "temporalio",
             "repo": "sdk-dotnet",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -886,7 +936,8 @@
                 "owner": "temporalio",
                 "repo": "samples-dotnet",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -908,7 +959,8 @@
                 "owner": "oleg-shilo",
                 "repo": "Temporalio.Graphs",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             },
             {
               "node_type": "item",
@@ -923,7 +975,8 @@
                 "owner": "InfinityFlowApp",
                 "repo": "aspire-temporal",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -949,7 +1002,8 @@
             "owner": "temporalio",
             "repo": "sdk-php",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -966,7 +1020,8 @@
                 "owner": "temporalio",
                 "repo": "samples-php",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -987,8 +1042,9 @@
                 "last_commit": "2026-08-24T22:04:05Z",
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8499
-              }
+                "stars": 8500
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -1014,7 +1070,8 @@
             "owner": "temporalio",
             "repo": "sdk-ruby",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "children": [
@@ -1031,7 +1088,8 @@
                 "owner": "temporalio",
                 "repo": "samples-ruby",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:12:35.702Z"
             }
           ],
           "description": null,
@@ -1053,11 +1111,12 @@
             "archived": false,
             "id": 329126613,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:06:20Z",
+            "last_commit": "2026-08-28T18:42:14Z",
             "owner": "temporalio",
             "repo": "sdk-rust",
-            "stars": 507
-          }
+            "stars": 509
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Rust"
@@ -1078,7 +1137,8 @@
             "owner": "manetu",
             "repo": "temporal-clojure-sdk",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Clojure"
@@ -1099,7 +1159,8 @@
             "owner": "andrzej-mag",
             "repo": "temporal_sdk",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1175,8 @@
             "owner": "andrzej-mag",
             "repo": "temporal_sdk_samples",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Elixir"
@@ -1135,7 +1197,8 @@
             "owner": "andrzej-mag",
             "repo": "temporal_sdk",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1213,8 @@
             "owner": "andrzej-mag",
             "repo": "temporal_sdk_samples",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Erlang"
@@ -1167,11 +1231,12 @@
             "archived": false,
             "id": 639920912,
             "language": "Haskell",
-            "last_commit": "2026-08-27T14:52:22Z",
+            "last_commit": "2026-08-28T19:05:35Z",
             "owner": "mercury",
             "repo": "hs-temporal-sdk",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1251,8 @@
             "owner": "MercuryTechnologies",
             "repo": "hs-temporal-cookbook",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Haskell"
@@ -1206,8 +1272,9 @@
             "last_commit": "2026-08-06T05:17:30Z",
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6592
-          }
+            "stars": 6591
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1218,11 +1285,12 @@
             "archived": false,
             "id": 996682315,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:24:30Z",
+            "last_commit": "2026-08-28T11:59:21Z",
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 347
-          }
+            "stars": 348
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1305,8 @@
             "owner": "open-responses",
             "repo": "open-responses",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1321,8 @@
             "owner": "pmbanugo",
             "repo": "cron-atlas",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Built with Temporal"
@@ -1273,7 +1343,8 @@
             "owner": "temporalio",
             "repo": "awesome-temporal",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         },
         {
           "node_type": "item",
@@ -1288,14 +1359,15 @@
             "owner": "firdaus",
             "repo": "awesome-cadence-temporal-workflow",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:12:35.702Z"
         }
       ],
       "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:37:40.868Z",
+    "last_updated": "2026-08-28T21:12:35.702Z",
     "original_repository_info": {
       "archived": false,
       "id": 593843897,

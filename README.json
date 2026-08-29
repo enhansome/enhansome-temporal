@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500829
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Microservice Architecture related principles and technologies.",
+            "homepage": null,
             "id": 34987697,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
+            "open_issues": 8,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14498
+            "stars": 14498,
+            "topics": [
+              "awesome",
+              "cloud-computing",
+              "cloud-native",
+              "microservices",
+              "microservices-architecture"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -42,12 +64,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome System Design (A.K.A. Distributed Systems) resources. ",
+            "homepage": null,
             "id": 278641419,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-27T13:35:34Z",
+            "open_issues": 19,
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12436
+            "stars": 12436,
+            "topics": [
+              "distributed-systems",
+              "hadoop-ecosystem",
+              "interview",
+              "message-broker",
+              "microservices",
+              "microservices-architecture",
+              "nosql",
+              "relational-database",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -58,12 +95,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources on software architecture",
+            "homepage": null,
             "id": 163113528,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-19T14:30:02Z",
+            "open_issues": 1,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2874
+            "stars": 2874,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "software-architecture"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -74,12 +122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome queueing systems for background jobs and distributed tasks.",
+            "homepage": null,
             "id": 501775794,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-03-22T04:22:13Z",
+            "open_issues": 1,
             "owner": "tonyhb",
             "repo": "awesome-queues-jobs-and-tasks",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -95,12 +148,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316751
+                "stars": 316807,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -111,12 +176,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Go frameworks, libraries and software",
+                "homepage": "https://awesome-go.com",
                 "id": 21540759,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:52:34Z",
+                "open_issues": 219,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182545
+                "stars": 182561,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "go",
+                  "golang",
+                  "golang-library",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -127,12 +204,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+                "homepage": "https://node.cool",
                 "id": 21737266,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-03T08:24:10Z",
+                "open_issues": 26,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66642
+                "stars": 66640,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "javascript",
+                  "list",
+                  "node",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -143,12 +232,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Rust code and resources.",
+                "homepage": null,
                 "id": 21938243,
                 "language": "Rust",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-28T11:12:13Z",
+                "open_issues": 8,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59028
+                "stars": 59031,
+                "topics": [
+                  "awesome",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -159,12 +256,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+                "homepage": null,
                 "id": 21648001,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-24T00:59:50Z",
+                "open_issues": 3,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48876
+                "stars": 48878,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -175,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 21393871,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-19T17:00:42Z",
+                "open_issues": 31,
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35022
+                "stars": 35022,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -191,12 +301,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 14705691,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2026-07-13T19:44:57Z",
+                "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671
+                "stars": 32671,
+                "topics": [
+                  "awesome",
+                  "awesome-lists",
+                  "php",
+                  "php-applications",
+                  "php-framework",
+                  "php-installation",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -207,12 +330,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+                "homepage": null,
                 "id": 21894635,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-26T05:16:53Z",
+                "open_issues": 144,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21579
+                "stars": 21579,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "clr",
+                  "csharp",
+                  "dotnet",
+                  "fsharp"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -223,12 +358,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
+                "homepage": "https://awesome-ruby.com",
                 "id": 21461715,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-13T09:40:38Z",
+                "open_issues": 8,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14148
+                "stars": 14148,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "collection",
+                  "curated-list",
+                  "ruby",
+                  "ruby-libraries"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -246,12 +393,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+                "homepage": "http://dhamaniasad.github.io/awesome-postgres",
                 "id": 40072159,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-21T14:10:48Z",
+                "open_issues": 70,
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12064
+                "stars": 12065,
+                "topics": [
+                  "database",
+                  "postgres",
+                  "postgresql"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -262,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome MySQL software, libraries, tools and resources",
+                "homepage": null,
                 "id": 32276625,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T12:26:05Z",
+                "open_issues": 17,
                 "owner": "shlomi-noach",
                 "repo": "awesome-mysql",
-                "stars": 2610
+                "stars": 2610,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -278,12 +439,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A curated list of the best resources in the Cassandra community.",
+                "homepage": "https://cassandra.link/awesome",
                 "id": 90882600,
                 "language": "HTML",
+                "license": "CC0-1.0",
                 "last_commit": "2023-05-02T17:04:55Z",
+                "open_issues": 1,
                 "owner": "Anant",
                 "repo": "awesome-cassandra",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "apache",
+                  "awesome",
+                  "awesome-list",
+                  "cassandra",
+                  "datastax",
+                  "dse"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -302,12 +475,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Kubernetes Operator",
+            "homepage": "https://temporal-operator.pages.dev/",
             "id": 484799656,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-29T13:14:38Z",
+            "open_issues": 66,
             "owner": "alexandrevilain",
             "repo": "temporal-operator",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "k8s",
+              "kubernetes",
+              "kubernetes-operator",
+              "operator",
+              "temporal"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -318,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example temporal worker application deployed to Cloud Run",
+            "homepage": null,
             "id": 675737220,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-19T17:17:55Z",
+            "open_issues": 0,
             "owner": "temporal-sa",
             "repo": "temporal-cloud-run",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -334,12 +523,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small REST with Swagger UI server to work with Temporal objects",
+            "homepage": "https://northpowered.github.io/temporal-rest-executor/",
             "id": 623501950,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-28T18:26:58Z",
+            "open_issues": 1,
             "owner": "northpowered",
             "repo": "temporal-rest-executor",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "fastapi",
+              "python",
+              "temporal",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -350,12 +549,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community maintenance tooling for the Temporal PostgreSQL visibility store: partial-index migration, benchmark, and REINDEX/autovacuum runbook (temporalio/temporal#10145).",
+            "homepage": null,
             "id": 1297041405,
             "language": "PLpgSQL",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T14:53:38Z",
+            "open_issues": 0,
             "owner": "Krishnachaitanyakc",
             "repo": "temporal-postgres-visibility",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "database-maintenance",
+              "index-bloat",
+              "partial-index",
+              "postgresql",
+              "reindex",
+              "temporal",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -368,12 +580,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform provider to manage Temporal Server resources",
+                "homepage": "https://registry.terraform.io/providers/platacard/temporal/latest",
                 "id": 707206113,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T09:59:18Z",
+                "open_issues": 7,
                 "owner": "platacard",
                 "repo": "terraform-provider-temporal",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "infrastructure-as-code",
+                  "temporal",
+                  "terraform",
+                  "terraform-provider"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -384,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform provider for Temporal Cloud",
+                "homepage": null,
                 "id": 674327831,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T03:04:11Z",
+                "open_issues": 30,
                 "owner": "temporalio",
                 "repo": "terraform-provider-temporalcloud",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -411,12 +638,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iWF is a Workflow-As-Code microservice orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes",
+            "homepage": null,
             "id": 518169634,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:35:58Z",
+            "open_issues": 79,
             "owner": "indeedeng",
             "repo": "iwf",
-            "stars": 656
+            "stars": 656,
+            "topics": [
+              "distributed-process",
+              "distributed-system",
+              "distributed-transactions",
+              "durable-timer",
+              "golang",
+              "java",
+              "message-queue",
+              "microservice",
+              "orchestration",
+              "orchestrator",
+              "persistence",
+              "process",
+              "python",
+              "timer",
+              "workflow",
+              "workflow-as-code",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -427,12 +677,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source TypeScript framework for building AI workflows and agents. Designed for Claude Code describe what you want, Claude builds it, with all the best practices already in place.",
+            "homepage": "https://output.ai",
             "id": 1180979069,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T20:45:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:51:16Z",
+            "open_issues": 7,
             "owner": "growthxai",
             "repo": "output",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "claude",
+              "claude-code",
+              "javascript",
+              "llm",
+              "nodejs",
+              "open-source",
+              "reliability",
+              "temporal",
+              "typescript",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -443,12 +714,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pause your AI agent. Ask a human. Resume with their answer. Open source human-in-the-loop (HITL) library for production LLM agents: Slack, email, and web dashboard. Typed Pydantic and Zod responses. Durable Temporal and LangGraph adapters. AI verifier. Audit trail. Self-hosted, Apache 2.0. Python and TypeScript.",
+            "homepage": "https://awaithumans.dev",
             "id": 1210877198,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T20:39:31Z",
+            "open_issues": 11,
             "owner": "awaithumans",
             "repo": "awaithumans-human-in-the-loop-ai-agents",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "agent-memory",
+              "agent-skills",
+              "agent-workflow",
+              "agentic-ai",
+              "ai-agents",
+              "ai-infrastructure",
+              "claude",
+              "function-calling",
+              "hitl",
+              "human-feedback",
+              "human-in-the-loop",
+              "langchain",
+              "langgraph",
+              "mcp",
+              "multi-agent",
+              "prompt-engineering",
+              "pydantic",
+              "slack-bot",
+              "temporal",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -465,12 +762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 362869019,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-28T23:49:03Z",
+            "open_issues": 7,
             "owner": "temporalio",
             "repo": "temporal-polyglot",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -481,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo showing off Temporal Polyglot features (Java, Go, TypeScript, PHP)",
+            "homepage": null,
             "id": 387831309,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-02-05T06:27:17Z",
+            "open_issues": 8,
             "owner": "temporal-community",
             "repo": "temporal-pendulum",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -503,12 +810,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Go SDK",
+            "homepage": "https://docs.temporal.io/application-development?lang=go",
             "id": 215838955,
             "language": "Go",
-            "last_commit": "2026-08-28T20:40:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:51:11Z",
+            "open_issues": 234,
             "owner": "temporalio",
             "repo": "sdk-go",
-            "stars": 958
+            "stars": 958,
+            "topics": [
+              "durable-execution",
+              "golang",
+              "open-source",
+              "orchestration",
+              "sdk-go",
+              "service-bus",
+              "temporal-sdk",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management-system"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -521,12 +844,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples for working with the Temporal Go SDK",
+                "homepage": "https://docs.temporal.io/docs/go",
                 "id": 215839851,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T20:43:57Z",
+                "open_issues": 55,
                 "owner": "temporalio",
                 "repo": "samples-go",
-                "stars": 749
+                "stars": 749,
+                "topics": [
+                  "durable-execution",
+                  "golang-examples"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -537,12 +868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PoC to demonstrate integration between Benthos and Temporal. Based on https://github.com/temporalio/money-transfer-project-template-go.",
+                "homepage": null,
                 "id": 573491841,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-01-27T10:33:18Z",
+                "open_issues": 0,
                 "owner": "disintegrator",
                 "repo": "benthos-temporal-poc",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -560,12 +896,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Durable execution framework for AI agents in Go. Keeps agent state, tool calls, and execution loops resilient across process crashes.",
+                "homepage": "https://docs.agenticenv.ai/",
                 "id": 1180653673,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T23:44:57Z",
+                "open_issues": 2,
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
-                "stars": 51
+                "stars": 52,
+                "topics": [
+                  "a2a",
+                  "ag-ui",
+                  "agent-harness",
+                  "agent-sdk",
+                  "agent-sdk-go",
+                  "agentic-ai",
+                  "ai",
+                  "ai-agents",
+                  "ai-agents-framework",
+                  "distributed-agents",
+                  "durable-agents",
+                  "durable-execution",
+                  "framework",
+                  "golang",
+                  "in-process",
+                  "mcp",
+                  "restate",
+                  "restatedotdev",
+                  "temporal",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -576,12 +938,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":arrows_clockwise: Common convenience methods, and developer ergonomics for Temporal's Go SDK.",
+                "homepage": null,
                 "id": 307857993,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-12-31T14:25:17Z",
+                "open_issues": 1,
                 "owner": "Courtsite",
                 "repo": "temporal-go-helpers",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "distributed-systems",
+                  "distributed-transactions",
+                  "golang",
+                  "microservices",
+                  "saga",
+                  "sdk-go",
+                  "service-bus",
+                  "workflow-automation",
+                  "workflow-engine",
+                  "workflow-management"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -592,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Declarative workflows for Go apps, for background task processing and event-driven architectures. ",
+                "homepage": null,
                 "id": 714722233,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-13T15:38:22Z",
+                "open_issues": 0,
                 "owner": "hatchet-dev",
                 "repo": "hatchet-workflows",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -608,12 +991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe Temporal Go SDK wrapper",
+                "homepage": null,
                 "id": 752755215,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-17T22:09:16Z",
+                "open_issues": 3,
                 "owner": "vikstrous",
                 "repo": "tempts",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -624,12 +1012,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run distributed Go-like tests using Temporal",
+                "homepage": null,
                 "id": 917934669,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-18T07:58:37Z",
+                "open_issues": 0,
                 "owner": "cito-oss",
                 "repo": "tempo",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "go",
+                  "temporal",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -640,12 +1037,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal Encryption Converter is a Go package enabling robust encryption, decryption, and context propagation within Temporal workflows. The package employs asymmetric cryptography, sophisticated encryption algorithms, and pre-encryption ZLib compression for optimal security and efficiency.",
+                "homepage": null,
                 "id": 664874793,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-07-13T07:46:12Z",
+                "open_issues": 0,
                 "owner": "saga420",
                 "repo": "temporal-encryption-converter",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "encryption",
+                  "golang",
+                  "temporal"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -667,12 +1073,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal TypeScript SDK",
+            "homepage": null,
             "id": 317256151,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:59:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:28:02Z",
+            "open_issues": 208,
             "owner": "temporalio",
             "repo": "sdk-typescript",
-            "stars": 900
+            "stars": 900,
+            "topics": [
+              "durable-execution",
+              "microservices",
+              "open-source",
+              "orchestration",
+              "temporal-sdk",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -685,12 +1103,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples for working with the Temporal TypeScript SDK",
+                "homepage": null,
                 "id": 371128066,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:01:29Z",
+                "open_issues": 62,
                 "owner": "temporalio",
                 "repo": "samples-typescript",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "durable-execution"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -708,12 +1133,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 544144388,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-04T23:30:18Z",
+                "open_issues": 3,
                 "owner": "cognosisai",
                 "repo": "platform",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "ai",
+                  "docker",
+                  "elasticsearch",
+                  "gpt-3",
+                  "javascript",
+                  "llm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -724,12 +1162,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a library with some reusable functions for Temporal.io TypeScript SDK",
+                "homepage": "https://www.npmjs.com/package/temporal-time-utils",
                 "id": 444176795,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-09-09T17:17:47Z",
+                "open_issues": 4,
                 "owner": "lorensr",
                 "repo": "temporal-time-utils",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "job-scheduler",
+                  "nodejs",
+                  "temporalio",
+                  "timers"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -751,12 +1199,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Java SDK",
+            "homepage": "https://temporal.io",
             "id": 215840316,
             "language": "Java",
-            "last_commit": "2026-08-28T20:39:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:57:33Z",
+            "open_issues": 285,
             "owner": "temporalio",
             "repo": "sdk-java",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "durable-execution",
+              "framework",
+              "java",
+              "java-sdk",
+              "microservices",
+              "open-source",
+              "orchestration",
+              "temporal-sdk",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-tool"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -769,12 +1234,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples for working with the Temporal Java SDK",
+                "homepage": "http://docs.temporal.io/docs/java-quick-start",
                 "id": 215840816,
                 "language": "Java",
-                "last_commit": "2026-08-27T23:48:04Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:46:06Z",
+                "open_issues": 48,
                 "owner": "temporalio",
                 "repo": "samples-java",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "durable-execution",
+                  "java",
+                  "java-samples",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -785,12 +1260,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample application demonstrating Temporal JavaSDK Spring Boot integration",
+                "homepage": "https://github.com/temporalio/sdk-java/blob/master/temporal-spring-boot-autoconfigure-alpha/README.md",
                 "id": 527853419,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-01-02T20:29:06Z",
+                "open_issues": 0,
                 "owner": "temporalio",
                 "repo": "spring-boot-demo",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "durable-execution",
+                  "java",
+                  "spring-boot",
+                  "temporal"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -812,12 +1297,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Python SDK",
+            "homepage": null,
             "id": 451613653,
             "language": "Python",
-            "last_commit": "2026-08-28T19:33:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:46:13Z",
+            "open_issues": 101,
             "owner": "temporalio",
             "repo": "sdk-python",
-            "stars": 1170
+            "stars": 1171,
+            "topics": [
+              "durable-execution",
+              "microservices",
+              "open-source",
+              "orchestration",
+              "python",
+              "temporal-sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -830,12 +1327,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples for working with the Temporal Python SDK",
+                "homepage": null,
                 "id": 454557884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:07:20Z",
+                "open_issues": 76,
                 "owner": "temporalio",
                 "repo": "samples-python",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "durable-execution"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -846,12 +1350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concept for orchestrating an AI video generation pipeline (video generation → S3 → token deduction → DB) using Temporal workflows and activities with FastAPI.",
+                "homepage": null,
                 "id": 1188281565,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-01T18:54:42Z",
+                "open_issues": 2,
                 "owner": "aybruhm",
                 "repo": "ai-video-generation-poc-with-temporal",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -869,12 +1378,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extemely fast development for Temporal-based microservices",
+                "homepage": "https://northpowered.github.io/temporal-boost/",
                 "id": 678811330,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-01T17:56:47Z",
+                "open_issues": 1,
                 "owner": "northpowered",
                 "repo": "temporal-boost",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "framework",
+                  "microservices",
+                  "python",
+                  "temporal"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -885,12 +1404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for reliably and scalably performing many like operations in parallel",
+                "homepage": null,
                 "id": 748388562,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T19:55:28Z",
+                "open_issues": 7,
                 "owner": "drewhoskins",
                 "repo": "batch-orchestra",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -912,12 +1436,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal .NET SDK",
+            "homepage": null,
             "id": 577960478,
             "language": "C#",
-            "last_commit": "2026-08-27T22:24:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:50:45Z",
+            "open_issues": 66,
             "owner": "temporalio",
             "repo": "sdk-dotnet",
-            "stars": 567
+            "stars": 567,
+            "topics": [
+              "c-sharp",
+              "dotnet",
+              "durable-execution",
+              "microservices",
+              "open-source",
+              "orchestration",
+              "temporal-sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -930,12 +1467,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples for working with the Temporal .NET SDK ",
+                "homepage": null,
                 "id": 598820580,
                 "language": "C#",
-                "last_commit": "2026-08-25T20:55:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:14:54Z",
+                "open_issues": 31,
                 "owner": "temporalio",
                 "repo": "samples-dotnet",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "durable-execution"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -953,12 +1497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 847227544,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-02-26T10:41:10Z",
+                "open_issues": 0,
                 "owner": "oleg-shilo",
                 "repo": "Temporalio.Graphs",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             },
@@ -969,12 +1518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aspire component wrapper for the temporal CLI dev server",
+                "homepage": null,
                 "id": 760161702,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-15T13:50:07Z",
+                "open_issues": 12,
                 "owner": "InfinityFlowApp",
                 "repo": "aspire-temporal",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -996,12 +1550,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal PHP SDK",
+            "homepage": "https://php.preview.thundergun.io",
             "id": 294536964,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-22T07:46:15Z",
+            "open_issues": 44,
             "owner": "temporalio",
             "repo": "sdk-php",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "durable-execution",
+              "hacktoberfest",
+              "orchestration",
+              "php",
+              "roadrunner",
+              "temporal",
+              "temporal-sdk",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1014,12 +1583,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal PHP SDK samples ",
+                "homepage": null,
                 "id": 332012836,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T17:05:29Z",
+                "open_issues": 14,
                 "owner": "temporalio",
                 "repo": "samples-php",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "php",
+                  "temporal",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -1037,12 +1615,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤯 High-performance PHP application server, process manager written in Go and powered with plugins",
+                "homepage": "https://docs.roadrunner.dev",
                 "id": 115436884,
                 "language": "Go",
-                "last_commit": "2026-08-24T22:04:05Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:03:33Z",
+                "open_issues": 54,
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8500
+                "stars": 8500,
+                "topics": [
+                  "application-server",
+                  "golang",
+                  "hacktoberfest",
+                  "http",
+                  "php",
+                  "psr-7",
+                  "roadrunner",
+                  "rpc",
+                  "supervisor",
+                  "workers"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -1064,12 +1658,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Ruby SDK",
+            "homepage": null,
             "id": 479006152,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:41:12Z",
+            "open_issues": 27,
             "owner": "temporalio",
             "repo": "sdk-ruby",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "durable-execution",
+              "microservices",
+              "open-source",
+              "orchestration",
+              "ruby",
+              "temporal-sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1082,12 +1688,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples showing how to use the official Temporal Ruby SDK",
+                "homepage": null,
                 "id": 869117857,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-20T16:42:52Z",
+                "open_issues": 13,
                 "owner": "temporalio",
                 "repo": "samples-ruby",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "durable-execution"
+                ]
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
             }
@@ -1109,12 +1722,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Rust & Core SDKs",
+            "homepage": null,
             "id": 329126613,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:42:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:17:28Z",
+            "open_issues": 92,
             "owner": "temporalio",
             "repo": "sdk-rust",
-            "stars": 509
+            "stars": 509,
+            "topics": [
+              "rust",
+              "rust-lang",
+              "rust-sdk",
+              "temporal",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-tool"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1131,12 +1757,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Temporal SDK for Clojure",
+            "homepage": null,
             "id": 532598881,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T13:25:55Z",
+            "open_issues": 4,
             "owner": "manetu",
             "repo": "temporal-clojure-sdk",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "clojure",
+              "sdk",
+              "temporalio"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1153,12 +1788,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Erlang/Elixir SDK",
+            "homepage": null,
             "id": 1089540705,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-06T08:12:50Z",
+            "open_issues": 0,
             "owner": "andrzej-mag",
             "repo": "temporal_sdk",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "elixir",
+              "erlang",
+              "temporalio",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1169,12 +1816,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Erlang/Elixir SDK samples",
+            "homepage": null,
             "id": 1090271206,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-06-18T11:49:44Z",
+            "open_issues": 0,
             "owner": "andrzej-mag",
             "repo": "temporal_sdk_samples",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "elixir",
+              "erlang",
+              "temporalio",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1191,12 +1850,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Erlang/Elixir SDK",
+            "homepage": null,
             "id": 1089540705,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-06T08:12:50Z",
+            "open_issues": 0,
             "owner": "andrzej-mag",
             "repo": "temporal_sdk",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "elixir",
+              "erlang",
+              "temporalio",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1207,12 +1878,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Erlang/Elixir SDK samples",
+            "homepage": null,
             "id": 1090271206,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-06-18T11:49:44Z",
+            "open_issues": 0,
             "owner": "andrzej-mag",
             "repo": "temporal_sdk_samples",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "elixir",
+              "erlang",
+              "temporalio",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1229,12 +1912,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Temporal Haskell SDK",
+            "homepage": "https://temporal.io",
             "id": 639920912,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T19:05:35Z",
+            "open_issues": 39,
             "owner": "mercury",
             "repo": "hs-temporal-sdk",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "haskell",
+              "haskell-library",
+              "temporal"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1245,12 +1937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cookbook for working with the (Unofficial) Temporal Haskell SDK ",
+            "homepage": null,
             "id": 938305136,
             "language": "Haskell",
+            "license": "MPL-2.0",
             "last_commit": "2026-02-23T18:07:03Z",
+            "open_issues": 0,
             "owner": "MercuryTechnologies",
             "repo": "hs-temporal-cookbook",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1267,12 +1964,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.",
+            "homepage": "https://docs.julep.ai",
             "id": 781914762,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T05:17:30Z",
+            "open_issues": 3,
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6591
+            "stars": 6591,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-agents-framework",
+              "ai-memory",
+              "ai-platform",
+              "aiagents",
+              "developer-tools",
+              "devfest",
+              "llm",
+              "llm-ops",
+              "node",
+              "node-js",
+              "nodejs",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1283,12 +2001,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Builder - Apache 2.0 React SDK for embedding visual workflow editors. Drag-and-drop workflow builder UI with a reference back-end and an execution engine swappable by design, proven with Temporal. Back-end agnostic. Built on React Flow and Temporal. Reference stack for AI workflows and automations in digital products.",
+            "homepage": "https://www.workflowbuilder.io/",
             "id": 996682315,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:59:21Z",
+            "open_issues": 22,
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "ai-agent-workflow",
+              "ai-workflows",
+              "automation",
+              "diagramming",
+              "embedded-workflow",
+              "frontend-sdk",
+              "node-diagram",
+              "react",
+              "react-flow",
+              "react-workflow",
+              "temporal",
+              "temporal-ui",
+              "temporal-workflow",
+              "visual-workflow",
+              "workflow",
+              "workflow-automation",
+              "workflow-builder",
+              "workflow-configurator",
+              "workflow-editor",
+              "workflow-ui"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1299,12 +2043,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc)",
+            "homepage": "https://docs.julep.ai/responses/quickstart",
             "id": 952354263,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-02T17:22:06Z",
+            "open_issues": 4,
             "owner": "open-responses",
             "repo": "open-responses",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agents",
+              "agents-sdk",
+              "claude-api",
+              "ollama",
+              "ollama-api",
+              "openai",
+              "openai-api",
+              "responses-api"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1315,12 +2075,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern cron job scheduler for the serverless era",
+            "homepage": "https://cronatlas.com/",
             "id": 734133087,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-04-03T18:15:55Z",
+            "open_issues": 4,
             "owner": "pmbanugo",
             "repo": "cron-atlas",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "background-jobs",
+              "cron",
+              "cron-job",
+              "cronjob",
+              "cronjob-scheduler",
+              "remix-run",
+              "scheduled-functions",
+              "scheduled-jobs",
+              "scheduled-tasks",
+              "serverless",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1337,12 +2114,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Temporal libraries and resources.",
+            "homepage": null,
             "id": 593843897,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-12T16:01:26Z",
+            "open_issues": 0,
             "owner": "temporalio",
             "repo": "awesome-temporal",
-            "stars": 456
+            "stars": 456,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "temporal"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         },
@@ -1353,12 +2139,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to the Cadence and Temporal Workflow Engines",
+            "homepage": null,
             "id": 272731923,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-03T17:53:08Z",
+            "open_issues": 1,
             "owner": "firdaus",
             "repo": "awesome-cadence-temporal-workflow",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "cadence",
+              "cadence-workflow",
+              "temporal",
+              "temporal-workflow",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:12:35.702Z"
         }
@@ -1367,15 +2165,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:12:35.702Z",
+    "last_updated": "2026-08-29T04:43:50.035Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Temporal libraries and resources.",
+      "homepage": null,
       "id": 593843897,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-12T16:01:26Z",
+      "open_issues": 0,
       "owner": "temporalio",
       "repo": "awesome-temporal",
-      "stars": 456
+      "stars": 456,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "temporal"
+      ]
     },
     "original_repository_sha": "04801cb0b49ddc7aad83d1a3ca05545ca6daba12",
     "enhanced_repository": "enhansome/enhansome-temporal",

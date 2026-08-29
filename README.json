@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500891,
+            "stars": 501042,
             "topics": [
               "awesome",
               "awesome-list",
@@ -154,10 +154,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
-                "open_issues": 19,
+                "open_issues": 18,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316807,
+                "stars": 316939,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -181,11 +181,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T16:52:34Z",
-                "open_issues": 219,
+                "last_commit": "2026-08-29T10:21:07Z",
+                "open_issues": 220,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182561,
+                "stars": 182596,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 26,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66640,
+                "stars": 66647,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -237,11 +237,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-28T11:12:13Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-29T15:01:55Z",
+                "open_issues": 7,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59031,
+                "stars": 59039,
                 "topics": [
                   "awesome",
                   "rust"
@@ -265,7 +265,7 @@
                 "open_issues": 3,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48878,
+                "stars": 48881,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -289,7 +289,7 @@
                 "open_issues": 31,
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35022,
+                "stars": 35023,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:12:35.702Z"
@@ -310,7 +310,7 @@
                 "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671,
+                "stars": 32673,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -339,7 +339,7 @@
                 "open_issues": 144,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21579,
+                "stars": 21580,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -367,7 +367,7 @@
                 "open_issues": 8,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14148,
+                "stars": 14149,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -402,7 +402,7 @@
                 "open_issues": 70,
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12065,
+                "stars": 12066,
                 "topics": [
                   "database",
                   "postgres",
@@ -816,10 +816,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-28T22:51:11Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "temporalio",
             "repo": "sdk-go",
-            "stars": 958,
+            "stars": 959,
             "topics": [
               "durable-execution",
               "golang",
@@ -1204,8 +1204,8 @@
             "id": 215840316,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:57:33Z",
-            "open_issues": 285,
+            "last_commit": "2026-08-29T05:02:45Z",
+            "open_issues": 284,
             "owner": "temporalio",
             "repo": "sdk-java",
             "stars": 431,
@@ -1303,7 +1303,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T23:46:13Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "temporalio",
             "repo": "sdk-python",
             "stars": 1171,
@@ -1624,7 +1624,7 @@
                 "open_issues": 54,
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8500,
+                "stars": 8501,
                 "topics": [
                   "application-server",
                   "golang",
@@ -1727,11 +1727,11 @@
             "id": 329126613,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:17:28Z",
+            "last_commit": "2026-08-29T14:44:03Z",
             "open_issues": 92,
             "owner": "temporalio",
             "repo": "sdk-rust",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "rust",
               "rust-lang",
@@ -2123,7 +2123,7 @@
             "open_issues": 0,
             "owner": "temporalio",
             "repo": "awesome-temporal",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2165,7 +2165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:50.035Z",
+    "last_updated": "2026-08-29T15:08:59.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Temporal libraries and resources.",
@@ -2177,7 +2177,7 @@
       "open_issues": 0,
       "owner": "temporalio",
       "repo": "awesome-temporal",
-      "stars": 456,
+      "stars": 457,
       "topics": [
         "awesome",
         "awesome-list",

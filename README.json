@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501042,
+            "stars": 501341,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 8,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14498,
+            "stars": 14499,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -73,7 +73,7 @@
             "open_issues": 19,
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12436,
+            "stars": 12435,
             "topics": [
               "distributed-systems",
               "hadoop-ecosystem",
@@ -157,7 +157,7 @@
                 "open_issues": 18,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316939,
+                "stars": 317128,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -181,11 +181,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T10:21:07Z",
-                "open_issues": 220,
+                "last_commit": "2026-08-30T10:06:25Z",
+                "open_issues": 221,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182596,
+                "stars": 182694,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                 "open_issues": 26,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66647,
+                "stars": 66659,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -241,7 +241,7 @@
                 "open_issues": 7,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59039,
+                "stars": 59063,
                 "topics": [
                   "awesome",
                   "rust"
@@ -262,10 +262,10 @@
                 "language": null,
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-24T00:59:50Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48881,
+                "stars": 48894,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -286,7 +286,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-19T17:00:42Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
                 "stars": 35023,
@@ -310,7 +310,7 @@
                 "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32673,
+                "stars": 32675,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -364,10 +364,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-13T09:40:38Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14149,
+                "stars": 14150,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -402,7 +402,7 @@
                 "open_issues": 70,
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12066,
+                "stars": 12067,
                 "topics": [
                   "database",
                   "postgres",
@@ -902,7 +902,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T23:44:57Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
                 "stars": 52,
@@ -1079,10 +1079,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T22:28:02Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "temporalio",
             "repo": "sdk-typescript",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "durable-execution",
               "microservices",
@@ -1302,8 +1302,8 @@
             "id": 451613653,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:46:13Z",
-            "open_issues": 102,
+            "last_commit": "2026-08-30T02:40:22Z",
+            "open_issues": 103,
             "owner": "temporalio",
             "repo": "sdk-python",
             "stars": 1171,
@@ -1727,8 +1727,8 @@
             "id": 329126613,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:44:03Z",
-            "open_issues": 92,
+            "last_commit": "2026-08-29T20:14:25Z",
+            "open_issues": 94,
             "owner": "temporalio",
             "repo": "sdk-rust",
             "stars": 510,
@@ -1973,7 +1973,7 @@
             "open_issues": 3,
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6591,
+            "stars": 6589,
             "topics": [
               "agents",
               "ai",
@@ -2010,7 +2010,7 @@
             "open_issues": 22,
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "ai-agent-workflow",
               "ai-workflows",
@@ -2165,7 +2165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:08:59.306Z",
+    "last_updated": "2026-08-30T14:55:00.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Temporal libraries and resources.",

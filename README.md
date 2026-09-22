@@ -80,24 +80,24 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Related awesome lists
 
-* [All lists](https://github.com/sindresorhus/awesome) ⭐ 508,522 | 🐛 106 | 📅 2026-09-02
-* [Microservices](https://github.com/mfornos/awesome-microservices#readme) ⭐ 14,515 | 🐛 11 | 📅 2026-08-20
-* [Distributed systems](https://github.com/madd86/awesome-system-design) ⭐ 12,542 | 🐛 21 | 📅 2026-02-27
-* [Software architecture](https://github.com/simskij/awesome-software-architecture#readme) ⭐ 2,889 | 🐛 3 | 📅 2026-04-19
+* [All lists](https://github.com/sindresorhus/awesome) ⭐ 508,883 | 🐛 106 | 📅 2026-09-02
+* [Microservices](https://github.com/mfornos/awesome-microservices#readme) ⭐ 14,517 | 🐛 12 | 📅 2026-08-20
+* [Distributed systems](https://github.com/madd86/awesome-system-design) ⭐ 12,555 | 🐛 22 | 📅 2026-02-27
+* [Software architecture](https://github.com/simskij/awesome-software-architecture#readme) ⭐ 2,890 | 🐛 3 | 📅 2026-04-19
 * [Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks/) ⭐ 17 | 🐛 1 | 📅 2023-03-22
 * Languages we have SDKs in:
-  * [Python](https://github.com/vinta/awesome-python#readme) ⭐ 322,093 | 🐛 20 | 🌐 Python | 📅 2026-09-20
-  * [Go](https://github.com/avelino/awesome-go#readme) ⭐ 184,998 | 🐛 230 | 🌐 Go | 📅 2026-09-20
-  * [Node](https://github.com/sindresorhus/awesome-nodejs#readme) ⭐ 66,884 | 🐛 24 | 📅 2026-09-02
-  * [Rust](https://github.com/rust-unofficial/awesome-rust#readme) ⭐ 59,480 | 🐛 9 | 🌐 Rust | 📅 2026-09-20
-  * [Java](https://github.com/akullpp/awesome-java#readme) ⭐ 49,073 | 🐛 3 | 📅 2026-09-21
-  * [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) ⭐ 35,024 | 🐛 23 | 📅 2026-09-08
-  * [PHP](https://github.com/ziadoz/awesome-php#readme) ⭐ 32,702 | 🐛 92 | 📅 2026-07-13
-  * [.NET](https://github.com/quozd/awesome-dotnet#readme) ⭐ 21,621 | 🐛 162 | 📅 2026-03-26
-  * [Ruby](https://github.com/markets/awesome-ruby#readme) ⭐ 14,156 | 🐛 9 | 📅 2026-09-08
+  * [Python](https://github.com/vinta/awesome-python#readme) ⭐ 322,280 | 🐛 20 | 🌐 Python | 📅 2026-09-22
+  * [Go](https://github.com/avelino/awesome-go#readme) ⭐ 185,128 | 🐛 231 | 🌐 Go | 📅 2026-09-20
+  * [Node](https://github.com/sindresorhus/awesome-nodejs#readme) ⭐ 66,897 | 🐛 24 | 📅 2026-09-02
+  * [Rust](https://github.com/rust-unofficial/awesome-rust#readme) ⭐ 59,499 | 🐛 9 | 🌐 Rust | 📅 2026-09-22
+  * [Java](https://github.com/akullpp/awesome-java#readme) ⭐ 49,085 | 🐛 5 | 📅 2026-09-21
+  * [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) ⭐ 35,022 | 🐛 23 | 📅 2026-09-08
+  * [PHP](https://github.com/ziadoz/awesome-php#readme) ⭐ 32,704 | 🐛 92 | 📅 2026-07-13
+  * [.NET](https://github.com/quozd/awesome-dotnet#readme) ⭐ 21,623 | 🐛 162 | 📅 2026-03-26
+  * [Ruby](https://github.com/markets/awesome-ruby#readme) ⭐ 14,157 | 🐛 10 | 📅 2026-09-08
 * Databases we support:
-  * [Postgres](https://github.com/dhamaniasad/awesome-postgres#readme) ⭐ 12,101 | 🐛 73 | 📅 2026-08-31
-  * [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme) ⭐ 2,614 | 🐛 20 | 🌐 Python | 📅 2026-09-14
+  * [Postgres](https://github.com/dhamaniasad/awesome-postgres#readme) ⭐ 12,101 | 🐛 74 | 📅 2026-08-31
+  * [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme) ⭐ 2,614 | 🐛 19 | 🌐 Python | 📅 2026-09-22
   * [Cassandra](https://github.com/Anant/awesome-cassandra#readme) ⚠️ Archived
 
 ## Communities
@@ -126,9 +126,9 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Frameworks
 
-* [iWF](https://github.com/indeedeng/iwf) ⭐ 661 | 🐛 79 | 🌐 Go | 📅 2026-08-28 - DSL workflow framework built on Temporal.
-* [Output](https://github.com/growthxai/output) ⭐ 438 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-21 - AI Agents & Workflows with versioned prompts, evals, tracing, and credentials in one TypeScript framework built on Temporal.
-* [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 92 | 🐛 102 | 🌐 Rust | 📅 2026-09-21 - Per-call authorization for Temporal activities. Each Activity is checked against that call's arguments, and authority is traced across delegation chains.
+* [iWF](https://github.com/indeedeng/iwf) ⭐ 662 | 🐛 79 | 🌐 Go | 📅 2026-08-28 - DSL workflow framework built on Temporal.
+* [Output](https://github.com/growthxai/output) ⭐ 438 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-21 - AI Agents & Workflows with versioned prompts, evals, tracing, and credentials in one TypeScript framework built on Temporal.
+* [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 92 | 🐛 102 | 🌐 Rust | 📅 2026-09-22 - Per-call authorization for Temporal activities. Each Activity is checked against that call's arguments, and authority is traced across delegation chains.
 * [awaithumans](https://github.com/awaithumans/awaithumans) ⭐ 24 | 🐛 17 | 🌐 Python | 📅 2026-09-11 - HITL primitive for AI agents. One function call (`await_human` / `awaitHuman`) suspends the workflow until a real person reviews via Slack, email, or a built-in dashboard, then resumes with the typed response. The Temporal adapter uses signals to park the workflow while it waits — durable across worker restarts. Python + TypeScript SDKs, Apache 2.0.
 * [Zigflow](https://zigflow.dev) - Declarative workflow framework for Temporal, using YAML and the Open Workflow Specification.
 
@@ -203,13 +203,13 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Go
 
-* [Go SDK](https://github.com/temporalio/sdk-go) ⭐ 971 | 🐛 229 | 🌐 Go | 📅 2026-09-18
+* [Go SDK](https://github.com/temporalio/sdk-go) ⭐ 973 | 🐛 229 | 🌐 Go | 📅 2026-09-18
 * [Go SDK docs](https://t.mp/go)
 * [Go SDK API reference](https://t.mp/go-api)
 
 ### Samples
 
-* [`temporalio/samples-go`](https://github.com/temporalio/samples-go) ⭐ 749 | 🐛 64 | 🌐 Go | 📅 2026-09-18
+* [`temporalio/samples-go`](https://github.com/temporalio/samples-go) ⭐ 750 | 🐛 64 | 🌐 Go | 📅 2026-09-18
 * [Benthos PoC](https://github.com/disintegrator/benthos-temporal-poc) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2023-01-27 - Start a workflow from a Benthos message.
 * [Background Check app](https://learn.temporal.io/examples/go/background-checks/)
 
@@ -241,7 +241,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## TypeScript
 
-* [TypeScript SDK](https://github.com/temporalio/sdk-typescript) ⭐ 920 | 🐛 201 | 🌐 TypeScript | 📅 2026-09-21
+* [TypeScript SDK](https://github.com/temporalio/sdk-typescript) ⭐ 922 | 🐛 200 | 🌐 TypeScript | 📅 2026-09-22
 * [TypeScript SDK docs](https://t.mp/ts)
 * [TypeScript SDK API reference](https://t.mp/ts-api)
 
@@ -282,13 +282,13 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Java
 
-* [Java SDK](https://github.com/temporalio/sdk-java) ⭐ 433 | 🐛 282 | 🌐 Java | 📅 2026-09-20
+* [Java SDK](https://github.com/temporalio/sdk-java) ⭐ 433 | 🐛 281 | 🌐 Java | 📅 2026-09-21
 * [Java SDK docs](https://t.mp/java)
 * [Java SDK API reference](https://t.mp/java-api)
 
 ### Samples
 
-* [`temporalio/samples-java`](https://github.com/temporalio/samples-java) ⭐ 258 | 🐛 47 | 🌐 Java | 📅 2026-09-18
+* [`temporalio/samples-java`](https://github.com/temporalio/samples-java) ⭐ 259 | 🐛 47 | 🌐 Java | 📅 2026-09-18
 * [`tsurdilo/temporal-springboot-demo`](https://github.com/tsurdilo/temporal-springboot-demo) ⭐ 47 | 🐛 0 | 🌐 Java | 📅 2026-01-02 - Spring Boot integration.
 
 ### Libraries
@@ -306,7 +306,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Python
 
-* [Python SDK](https://github.com/temporalio/sdk-python) ⭐ 1,195 | 🐛 106 | 🌐 Python | 📅 2026-09-20
+* [Python SDK](https://github.com/temporalio/sdk-python) ⭐ 1,196 | 🐛 109 | 🌐 Python | 📅 2026-09-22
 * [Python SDK docs](https://t.mp/py)
 * [Python SDK API reference](https://t.mp/py-api)
 
@@ -360,7 +360,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ### Libraries
 
-* [RoadRunner](https://github.com/roadrunner-server/roadrunner) ⭐ 8,506 | 🐛 46 | 🌐 Go | 📅 2026-09-18 - PHP application server and process manager.
+* [RoadRunner](https://github.com/roadrunner-server/roadrunner) ⭐ 8,507 | 🐛 51 | 🌐 Go | 📅 2026-09-21 - PHP application server and process manager.
 
 ### Tutorials
 
@@ -377,7 +377,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Ruby
 
-* [Ruby SDK](https://github.com/temporalio/sdk-ruby) ⭐ 205 | 🐛 31 | 🌐 Ruby | 📅 2026-09-18
+* [Ruby SDK](https://github.com/temporalio/sdk-ruby) ⭐ 205 | 🐛 32 | 🌐 Ruby | 📅 2026-09-22
 * [Ruby SDK API reference](https://ruby.temporal.io)
 
 ### Samples
@@ -392,7 +392,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Rust
 
-* [Rust SDK](https://github.com/temporalio/sdk-rust) ⭐ 524 | 🐛 87 | 🌐 Rust | 📅 2026-09-18 - Currently in Public Preview.
+* [Rust SDK](https://github.com/temporalio/sdk-rust) ⭐ 525 | 🐛 87 | 🌐 Rust | 📅 2026-09-18 - Currently in Public Preview.
 * [`temporalio-sdk` crate](https://crates.io/crates/temporalio-sdk)
 * [Rust SDK API reference](https://docs.rs/temporalio-sdk)
 
@@ -424,7 +424,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Built with Temporal
 
 * [Julep: Modern, Scalable, Resilient AI workflows](https://github.com/julep-ai/julep) ⭐ 6,582 | 🐛 2 | 🌐 Python | 📅 2026-08-06
-* [Workflow Builder](https://github.com/synergycodes/workflowbuilder) ⭐ 374 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-21 - Embeddable, data-driven visual workflow editor SDK for React (Apache 2.0). The execution engine is swappable by design and proven with Temporal, giving you a working end-to-end reference for durable AI orchestration.
+* [Workflow Builder](https://github.com/synergycodes/workflowbuilder) ⭐ 375 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-22 - Embeddable, data-driven visual workflow editor SDK for React (Apache 2.0). The execution engine is swappable by design and proven with Temporal, giving you a working end-to-end reference for durable AI orchestration.
 * [Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model](https://github.com/julep-ai/open-responses) ⭐ 229 | 🐛 4 | 🌐 Go | 📅 2025-04-02
 * [Cron Atlas](https://github.com/pmbanugo/cron-atlas) ⭐ 72 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-03 - Hit an HTTP endpoint on a schedule
 * [Automating Temporal: A Full View of the Netflix Temporal Platform](https://community.temporal.io/t/automating-temporal-a-full-view-of-the-netflix-temporal-platform/13624) by @robzienert
@@ -442,4 +442,4 @@ We welcome contributions! See [`contributing.md`](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

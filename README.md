@@ -80,24 +80,24 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Related awesome lists
 
-* [All lists](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
-* [Microservices](https://github.com/mfornos/awesome-microservices#readme) ⭐ 14,530 | 🐛 16 | 📅 2026-08-20
-* [Distributed systems](https://github.com/madd86/awesome-system-design) ⭐ 12,600 | 🐛 22 | 📅 2026-02-27
+* [All lists](https://github.com/sindresorhus/awesome) ⭐ 513,958 | 🐛 106 | 📅 2026-09-02
+* [Microservices](https://github.com/mfornos/awesome-microservices#readme) ⭐ 14,531 | 🐛 16 | 📅 2026-08-20
+* [Distributed systems](https://github.com/madd86/awesome-system-design) ⭐ 12,602 | 🐛 22 | 📅 2026-02-27
 * [Software architecture](https://github.com/simskij/awesome-software-architecture#readme) ⭐ 2,901 | 🐛 3 | 📅 2026-04-19
 * [Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks/) ⭐ 17 | 🐛 1 | 📅 2023-03-22
 * Languages we have SDKs in:
-  * [Python](https://github.com/vinta/awesome-python#readme) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02
-  * [Go](https://github.com/avelino/awesome-go#readme) ⭐ 186,653 | 🐛 234 | 🌐 Go | 📅 2026-10-03
-  * [Node](https://github.com/sindresorhus/awesome-nodejs#readme) ⭐ 66,985 | 🐛 24 | 📅 2026-09-02
-  * [Rust](https://github.com/rust-unofficial/awesome-rust#readme) ⭐ 59,657 | 🐛 9 | 🌐 Rust | 📅 2026-10-01
+  * [Python](https://github.com/vinta/awesome-python#readme) ⭐ 324,865 | 🐛 21 | 🌐 Python | 📅 2026-10-02
+  * [Go](https://github.com/avelino/awesome-go#readme) ⭐ 186,715 | 🐛 113 | 🌐 Go | 📅 2026-10-03
+  * [Node](https://github.com/sindresorhus/awesome-nodejs#readme) ⭐ 66,991 | 🐛 24 | 📅 2026-09-02
+  * [Rust](https://github.com/rust-unofficial/awesome-rust#readme) ⭐ 59,661 | 🐛 9 | 🌐 Rust | 📅 2026-10-03
   * [Java](https://github.com/akullpp/awesome-java#readme) ⭐ 49,144 | 🐛 10 | 📅 2026-09-23
-  * [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) ⭐ 35,032 | 🐛 26 | 📅 2026-09-08
-  * [PHP](https://github.com/ziadoz/awesome-php#readme) ⭐ 32,722 | 🐛 94 | 📅 2026-09-27
-  * [.NET](https://github.com/quozd/awesome-dotnet#readme) ⭐ 21,639 | 🐛 163 | 📅 2026-03-26
-  * [Ruby](https://github.com/markets/awesome-ruby#readme) ⭐ 14,164 | 🐛 9 | 📅 2026-10-01
+  * [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) ⭐ 35,034 | 🐛 26 | 📅 2026-09-08
+  * [PHP](https://github.com/ziadoz/awesome-php#readme) ⭐ 32,723 | 🐛 94 | 📅 2026-09-27
+  * [.NET](https://github.com/quozd/awesome-dotnet#readme) ⭐ 21,638 | 🐛 163 | 📅 2026-03-26
+  * [Ruby](https://github.com/markets/awesome-ruby#readme) ⭐ 14,165 | 🐛 9 | 📅 2026-10-01
 * Databases we support:
-  * [Postgres](https://github.com/dhamaniasad/awesome-postgres#readme) ⭐ 12,103 | 🐛 84 | 📅 2026-08-31
-  * [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme) ⭐ 2,614 | 🐛 20 | 🌐 Python | 📅 2026-09-22
+  * [Postgres](https://github.com/dhamaniasad/awesome-postgres#readme) ⭐ 12,104 | 🐛 84 | 📅 2026-08-31
+  * [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme) ⭐ 2,615 | 🐛 20 | 🌐 Python | 📅 2026-09-22
   * [Cassandra](https://github.com/Anant/awesome-cassandra#readme) ⚠️ Archived
 
 ## Communities
@@ -128,7 +128,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 * [iWF](https://github.com/indeedeng/iwf) ⭐ 662 | 🐛 79 | 🌐 Go | 📅 2026-08-28 - DSL workflow framework built on Temporal.
 * [Output](https://github.com/growthxai/output) ⭐ 440 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-02 - AI Agents & Workflows with versioned prompts, evals, tracing, and credentials in one TypeScript framework built on Temporal.
-* [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 99 | 🐛 106 | 🌐 Rust | 📅 2026-10-03 - Per-call authorization for Temporal activities. Each Activity is checked against that call's arguments, and authority is traced across delegation chains.
+* [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 100 | 🐛 106 | 🌐 Rust | 📅 2026-10-03 - Per-call authorization for Temporal activities. Each Activity is checked against that call's arguments, and authority is traced across delegation chains.
 * [awaithumans](https://github.com/awaithumans/awaithumans) ⭐ 24 | 🐛 17 | 🌐 Python | 📅 2026-09-11 - HITL primitive for AI agents. One function call (`await_human` / `awaitHuman`) suspends the workflow until a real person reviews via Slack, email, or a built-in dashboard, then resumes with the typed response. The Temporal adapter uses signals to park the workflow while it waits — durable across worker restarts. Python + TypeScript SDKs, Apache 2.0.
 * [Zigflow](https://zigflow.dev) - Declarative workflow framework for Temporal, using YAML and the Open Workflow Specification.
 
@@ -282,7 +282,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Java
 
-* [Java SDK](https://github.com/temporalio/sdk-java) ⭐ 433 | 🐛 283 | 🌐 Java | 📅 2026-10-02
+* [Java SDK](https://github.com/temporalio/sdk-java) ⭐ 433 | 🐛 282 | 🌐 Java | 📅 2026-10-03
 * [Java SDK docs](https://t.mp/java)
 * [Java SDK API reference](https://t.mp/java-api)
 
@@ -330,7 +330,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## .NET
 
-* [.NET SDK](https://github.com/temporalio/sdk-dotnet) ⭐ 570 | 🐛 60 | 🌐 C# | 📅 2026-10-02
+* [.NET SDK](https://github.com/temporalio/sdk-dotnet) ⭐ 570 | 🐛 59 | 🌐 C# | 📅 2026-10-03
 * [.NET SDK docs](https://dotnet.temporal.io/)
 
 ### Samples
@@ -350,17 +350,17 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## PHP
 
-* [PHP SDK](https://github.com/temporalio/sdk-php) ⭐ 421 | 🐛 47 | 🌐 PHP | 📅 2026-10-02
+* [PHP SDK](https://github.com/temporalio/sdk-php) ⭐ 421 | 🐛 45 | 🌐 PHP | 📅 2026-10-03
 * [PHP SDK docs](https://t.mp/php)
 * [PHP SDK API reference](https://php.temporal.io)
 
 ### Samples
 
-* [`temporalio/samples-php`](https://github.com/temporalio/samples-php) ⭐ 125 | 🐛 15 | 🌐 PHP | 📅 2026-10-01
+* [`temporalio/samples-php`](https://github.com/temporalio/samples-php) ⭐ 125 | 🐛 15 | 🌐 PHP | 📅 2026-10-03
 
 ### Libraries
 
-* [RoadRunner](https://github.com/roadrunner-server/roadrunner) ⭐ 8,509 | 🐛 52 | 🌐 Go | 📅 2026-09-28 - PHP application server and process manager.
+* [RoadRunner](https://github.com/roadrunner-server/roadrunner) ⭐ 8,510 | 🐛 52 | 🌐 Go | 📅 2026-09-28 - PHP application server and process manager.
 
 ### Tutorials
 
@@ -392,7 +392,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Rust
 
-* [Rust SDK](https://github.com/temporalio/sdk-rust) ⭐ 528 | 🐛 96 | 🌐 Rust | 📅 2026-10-02 - Currently in Public Preview.
+* [Rust SDK](https://github.com/temporalio/sdk-rust) ⭐ 528 | 🐛 97 | 🌐 Rust | 📅 2026-10-02 - Currently in Public Preview.
 * [`temporalio-sdk` crate](https://crates.io/crates/temporalio-sdk)
 * [Rust SDK API reference](https://docs.rs/temporalio-sdk)
 

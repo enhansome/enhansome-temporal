@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "All lists",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513604,
+            "stars": 513802,
             "topics": [
               "awesome",
               "awesome-list",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Microservices",
-          "description": null,
+          "description": "mfornos/awesome-microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
             "open_issues": 16,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14529,
+            "stars": 14530,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "Distributed systems",
-          "description": null,
+          "description": "madd86/awesome-system-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -91,7 +91,7 @@
         {
           "node_type": "item",
           "title": "Software architecture",
-          "description": null,
+          "description": "simonaronsson/awesome-software-architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "simonaronsson",
             "repo": "awesome-software-architecture",
-            "stars": 2899,
+            "stars": 2901,
             "topics": [
               "architecture",
               "awesome",
@@ -118,7 +118,7 @@
         {
           "node_type": "item",
           "title": "Queues",
-          "description": null,
+          "description": "tonyhb/awesome-queues-jobs-and-tasks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "Python",
-              "description": null,
+              "description": "vinta/awesome-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -154,10 +154,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324665,
+                "stars": 324781,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "avelino/awesome-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,11 +181,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:59:32Z",
+                "last_commit": "2026-10-03T00:11:10Z",
                 "open_issues": 234,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186563,
+                "stars": 186653,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "Node",
-              "description": null,
+              "description": "sindresorhus/awesome-nodejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -213,7 +213,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66977,
+                "stars": 66985,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "Rust",
-              "description": null,
+              "description": "rust-unofficial/awesome-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,7 +241,7 @@
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59643,
+                "stars": 59657,
                 "topics": [
                   "awesome",
                   "rust"
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "Java",
-              "description": null,
+              "description": "akullpp/awesome-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -265,7 +265,7 @@
                 "open_issues": 10,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 49142,
+                "stars": 49144,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "sorrycc/awesome-javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "ziadoz/awesome-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -310,7 +310,7 @@
                 "open_issues": 94,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32721,
+                "stars": 32722,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -326,7 +326,7 @@
             {
               "node_type": "item",
               "title": ".NET",
-              "description": null,
+              "description": "quozd/awesome-dotnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -339,7 +339,7 @@
                 "open_issues": 163,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21637,
+                "stars": 21639,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -354,7 +354,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "markets/awesome-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -367,7 +367,7 @@
                 "open_issues": 9,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14163,
+                "stars": 14164,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -389,7 +389,7 @@
             {
               "node_type": "item",
               "title": "Postgres",
-              "description": null,
+              "description": "dhamaniasad/awesome-postgres",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,7 +414,7 @@
             {
               "node_type": "item",
               "title": "MySQL",
-              "description": null,
+              "description": "shlomi-noach/awesome-mysql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "Cassandra",
-              "description": null,
+              "description": "Anant/awesome-cassandra",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -611,7 +611,7 @@
                 "id": 674327831,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-01T06:23:46Z",
+                "last_commit": "2026-10-03T02:18:37Z",
                 "open_issues": 37,
                 "owner": "temporalio",
                 "repo": "terraform-provider-temporalcloud",
@@ -719,11 +719,11 @@
             "id": 1109364259,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:29:56Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-03T03:40:51Z",
+            "open_issues": 106,
             "owner": "tenuo-ai",
             "repo": "tenuo",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "a2a",
               "access-control",
@@ -848,7 +848,7 @@
         {
           "node_type": "item",
           "title": "Go SDK",
-          "description": null,
+          "description": "temporalio/sdk-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -857,11 +857,11 @@
             "id": 215838955,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:43:34Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-02T23:19:56Z",
+            "open_issues": 228,
             "owner": "temporalio",
             "repo": "sdk-go",
-            "stars": 978,
+            "stars": 980,
             "topics": [
               "durable-execution",
               "golang",
@@ -882,7 +882,7 @@
             {
               "node_type": "item",
               "title": "samples-go",
-              "description": null,
+              "description": "temporalio/samples-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -891,8 +891,8 @@
                 "id": 215839851,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T19:44:43Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-02T17:43:42Z",
+                "open_issues": 65,
                 "owner": "temporalio",
                 "repo": "samples-go",
                 "stars": 753,
@@ -947,7 +947,7 @@
                 "open_issues": 3,
                 "owner": "agenticenv",
                 "repo": "agent-sdk-go",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "a2a",
                   "ag-ui",
@@ -1111,7 +1111,7 @@
         {
           "node_type": "item",
           "title": "TypeScript SDK",
-          "description": null,
+          "description": "temporalio/sdk-typescript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1120,8 +1120,8 @@
             "id": 317256151,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:05:08Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-02T23:34:31Z",
+            "open_issues": 200,
             "owner": "temporalio",
             "repo": "sdk-typescript",
             "stars": 933,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "samples-typescript",
-              "description": null,
+              "description": "temporalio/samples-typescript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1150,8 +1150,8 @@
                 "id": 371128066,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T18:39:20Z",
-                "open_issues": 62,
+                "last_commit": "2026-10-02T23:20:56Z",
+                "open_issues": 63,
                 "owner": "temporalio",
                 "repo": "samples-typescript",
                 "stars": 465,
@@ -1237,7 +1237,7 @@
         {
           "node_type": "item",
           "title": "Java SDK",
-          "description": null,
+          "description": "temporalio/sdk-java",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1246,8 +1246,8 @@
             "id": 215840316,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:03:12Z",
-            "open_issues": 285,
+            "last_commit": "2026-10-02T22:08:21Z",
+            "open_issues": 283,
             "owner": "temporalio",
             "repo": "sdk-java",
             "stars": 433,
@@ -1272,7 +1272,7 @@
             {
               "node_type": "item",
               "title": "samples-java",
-              "description": null,
+              "description": "temporalio/samples-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
         {
           "node_type": "item",
           "title": "Python SDK",
-          "description": null,
+          "description": "temporalio/sdk-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1344,11 +1344,11 @@
             "id": 451613653,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:15:03Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-02T23:44:33Z",
+            "open_issues": 85,
             "owner": "temporalio",
             "repo": "sdk-python",
-            "stars": 1205,
+            "stars": 1206,
             "topics": [
               "durable-execution",
               "microservices",
@@ -1365,7 +1365,7 @@
             {
               "node_type": "item",
               "title": "samples-python",
-              "description": null,
+              "description": "temporalio/samples-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1374,8 +1374,8 @@
                 "id": 454557884,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:07:08Z",
-                "open_issues": 84,
+                "last_commit": "2026-10-02T19:24:52Z",
+                "open_issues": 85,
                 "owner": "temporalio",
                 "repo": "samples-python",
                 "stars": 371,
@@ -1474,7 +1474,7 @@
         {
           "node_type": "item",
           "title": ".NET SDK",
-          "description": null,
+          "description": "temporalio/sdk-dotnet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1483,8 +1483,8 @@
             "id": 577960478,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:03:22Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-02T23:51:31Z",
+            "open_issues": 60,
             "owner": "temporalio",
             "repo": "sdk-dotnet",
             "stars": 570,
@@ -1505,7 +1505,7 @@
             {
               "node_type": "item",
               "title": "samples-dotnet",
-              "description": null,
+              "description": "temporalio/samples-dotnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1514,7 +1514,7 @@
                 "id": 598820580,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:03:38Z",
+                "last_commit": "2026-10-02T16:42:17Z",
                 "open_issues": 24,
                 "owner": "temporalio",
                 "repo": "samples-dotnet",
@@ -1588,7 +1588,7 @@
         {
           "node_type": "item",
           "title": "PHP SDK",
-          "description": null,
+          "description": "temporalio/sdk-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1597,8 +1597,8 @@
             "id": 294536964,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:44:08Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-02T19:10:02Z",
+            "open_issues": 47,
             "owner": "temporalio",
             "repo": "sdk-php",
             "stars": 421,
@@ -1621,7 +1621,7 @@
             {
               "node_type": "item",
               "title": "samples-php",
-              "description": null,
+              "description": "temporalio/samples-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1666,7 +1666,7 @@
                 "open_issues": 52,
                 "owner": "roadrunner-server",
                 "repo": "roadrunner",
-                "stars": 8510,
+                "stars": 8509,
                 "topics": [
                   "application-server",
                   "golang",
@@ -1696,7 +1696,7 @@
         {
           "node_type": "item",
           "title": "Ruby SDK",
-          "description": null,
+          "description": "temporalio/sdk-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1705,8 +1705,8 @@
             "id": 479006152,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:07:34Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-02T23:18:08Z",
+            "open_issues": 30,
             "owner": "temporalio",
             "repo": "sdk-ruby",
             "stars": 207,
@@ -1726,7 +1726,7 @@
             {
               "node_type": "item",
               "title": "samples-ruby",
-              "description": null,
+              "description": "temporalio/samples-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1769,8 +1769,8 @@
             "id": 329126613,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:33:12Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-02T21:42:15Z",
+            "open_issues": 96,
             "owner": "temporalio",
             "repo": "sdk-rust",
             "stars": 528,
@@ -1795,7 +1795,7 @@
         {
           "node_type": "item",
           "title": "Clojure SDK",
-          "description": null,
+          "description": "manetu/temporal-clojure-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1826,7 +1826,7 @@
         {
           "node_type": "item",
           "title": "SDK GitHub repository",
-          "description": null,
+          "description": "andrzej-mag/temporal_sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1854,7 +1854,7 @@
         {
           "node_type": "item",
           "title": "Samples GitHub repository",
-          "description": null,
+          "description": "andrzej-mag/temporal_sdk_samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1888,7 +1888,7 @@
         {
           "node_type": "item",
           "title": "SDK GitHub repository",
-          "description": null,
+          "description": "andrzej-mag/temporal_sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1916,7 +1916,7 @@
         {
           "node_type": "item",
           "title": "Samples GitHub repository",
-          "description": null,
+          "description": "andrzej-mag/temporal_sdk_samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1950,7 +1950,7 @@
         {
           "node_type": "item",
           "title": "Haskell SDK",
-          "description": null,
+          "description": "mercury/hs-temporal-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1975,7 +1975,7 @@
         {
           "node_type": "item",
           "title": "Haskell SDK Cookbook",
-          "description": null,
+          "description": "MercuryTechnologies/hs-temporal-cookbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2002,7 +2002,7 @@
         {
           "node_type": "item",
           "title": "Julep: Modern, Scalable, Resilient AI workflows",
-          "description": null,
+          "description": "julep-ai/julep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2015,7 +2015,7 @@
             "open_issues": 2,
             "owner": "julep-ai",
             "repo": "julep",
-            "stars": 6576,
+            "stars": 6577,
             "topics": [
               "agents",
               "ai",
@@ -2049,10 +2049,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T15:21:46Z",
-            "open_issues": 27,
+            "open_issues": 29,
             "owner": "synergycodes",
             "repo": "workflowbuilder",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "ai-agent-workflow",
               "ai-workflows",
@@ -2081,7 +2081,7 @@
         {
           "node_type": "item",
           "title": "Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model",
-          "description": null,
+          "description": "open-responses/open-responses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2151,31 +2151,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "All those who have contributed",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Temporal libraries and resources.",
-            "homepage": null,
-            "id": 593843897,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-14T18:34:16Z",
-            "open_issues": 0,
-            "owner": "temporalio",
-            "repo": "awesome-temporal",
-            "stars": 468,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "temporal"
-            ]
-          },
-          "first_seen": "2026-08-28T21:12:35.702Z"
-        },
-        {
-          "node_type": "item",
           "title": "awesome-cadence-temporal-workflow",
           "description": "for",
           "children": [],
@@ -2207,7 +2182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:18:55.383Z",
+    "last_updated": "2026-10-03T05:11:50.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Temporal libraries and resources.",
